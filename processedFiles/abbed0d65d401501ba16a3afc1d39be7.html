@@ -1,0 +1,529 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR"><head>
+		<meta charset="utf-8">
+		<title>2023_1S_MAT2_L4_C13</title>
+		<link href="2023_1S_MAT2_L4_C13-web-resources/css/medio.css" rel="stylesheet" type="text/css">
+		<link href="2023_1S_MAT2_L4_C13-web-resources/css/matematica.css" rel="stylesheet" type="text/css">
+	</head>
+	<body id="x2023_1S_MAT2_L4_C13" lang="pt-BR">
+		<div id="_idContainer000" class="pagina">
+			<p class="numeracao_paginas" lang="pt-BR">14</p>
+		</div>
+		<div id="_idContainer001" class="CAPITULO13">
+			<p class="numero-capitulo numero_capitulo" lang="pt-BR">13</p>
+			<h1 class="titulo--1 titulo_capitulo" lang="pt-BR">Lei dos Cossenos</h1>
+			<p class="texto_hc" lang="pt-BR">Conhecimentos geométricos</p>
+			<p class="texto_hc" lang="pt-BR">C2 | H6,7,8,9</p>
+			<p lang="pt-BR">OBJETIVOS DE APRENDIZAGEM</p>
+			<ul>
+				<li class="texto_expectativas" lang="pt-BR">Compreender e aplicar relações métricas para resolver problemas que envolvam triângulos quaisquer.</li>
+				<li class="texto_expectativas" lang="pt-BR">Assimilar as definições de seno e de cosseno de um ângulo obtuso por meio de coordenadas cartesianas.</li>
+				<li class="texto_expectativas" lang="pt-BR">Determinar o seno e o cosseno de ângulos obtusos por meio da relação entre ângulos suplementares.</li>
+				<li class="texto_expectativas" lang="pt-BR">Compreender o processo de demonstração da Lei dos Cossenos.</li>
+				<li class="texto_expectativas" lang="pt-BR">Calcular as medidas de um triângulo qualquer aplicando a Lei dos Cossenos.</li>
+				<li class="texto_expectativas" lang="pt-BR">Determinar uma resultante vetorial aplicando a Lei dos Cossenos.</li>
+			</ul>
+		</div>
+		<div id="_idContainer003" class="conteudo_pg14">
+			<p class="texto--normal texto_normal" lang="pt-BR">Você já jogou sinuca ou conhece as regras? Em geral, esse jogo é composto por bolas coloridas numeradas, uma bola branca e tacos. Os jogadores, cada um na sua vez, precisam encaçapar as bolas coloridas por meio do impacto do taco na bola branca. Encaçapar significa acertar a bola da sinuca no buraco (caçapa). Apesar de parecer simples, envolve conhecimentos físicos e matemáticos, portanto, não se trata de um jogo de sorte, e sim, de um jogo técnico, pois o jogador precisa analisar a posição de cada bola, o percurso  realizado por elas, as distâncias, os ângulos e a força que ele aplicará na tacada.</p>
+			<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/1.jpg" alt=""></p>
+		</div>
+		<div id="_idContainer004" class="pagina">
+			<p class="numeracao_paginas" lang="pt-BR">15</p>
+		</div>
+		<div id="_idContainer008" class="conteudo_pg15">
+			<p class="texto--normal texto_normal" lang="pt-BR">Ao analisar esses elementos, a Matemática pode ser utilizada para modelar a situação. Imagine que a mesa de sinuca possa ser representada em um plano cartesiano; e a posição de cada bola, por coordenadas cartesianas. É possível analisar geometricamente a relação entre ângulos e medidas dos lados da trajetória da bola pela Trigonometria.</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Neste capítulo, vamos explorar relações métricas em um triângulo qualquer e conhecer a Lei dos Cossenos, que pode ser aplicada em situações modeladas por triângulos.</p>
+			<p class="titulo--box titulo_box_matematicas" lang="pt-BR">WI-FI</p>
+			<div>
+				<div id="_idContainer006" class="box--texto box_matematicas">
+					<p class="texto--normal box_texto_coluna_falsa" lang="pt-BR">Acesse o <em class="italico_coluna_falsa">link</em> a seguir e jogue uma partida de sinuca <em class="italico_coluna_falsa">on-line</em>. Durante a partida, observe  quais fundamentos da Trigonometria são aplicados no jogo e compartilhe com os seus colegas. </p>
+					<div>
+						<div id="_idContainer005" class="box--destaque destaque">
+							<p class="ancorado" lang="pt-BR"><a href="http://qr.portalsas.com.br/Yob"><span class="hiperlink-button">http://qr.portalsas.com.br/Yob</span></a> (acesso em: 4 nov. 2022).</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<p class="titulo--box titulo_box_texto_1" lang="pt-BR">COMEÇO DE CONVERSA</p>
+			<div>
+				<div id="_idContainer007" class="box--texto box_matematicas">
+					<ol>
+						<li class="lista-ordenada--atividade questao_para_compreender_comeco_conversa" lang="pt-BR">Em que outros jogos você identifica situações nas quais a Trigonometria pode ser utilizada?</li>
+						<li class="lista-ordenada--atividade questao_para_compreender_comeco_conversa" lang="pt-BR">Se você fosse representar o jogo de sinuca em um plano cartesiano, que posição da mesa você escolheria para ser a origem desse plano?</li>
+						<li class="lista-ordenada--atividade questao_para_compreender_comeco_conversa" lang="pt-BR">O Teorema de Pitágoras é um aliado na resolução de muitos problemas que envolvem situações geométricas e trigonométricas. Explique em quais situações esse teorema pode ser aplicado.</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+		<div id="_idContainer009" class="pagina">
+			<p class="numeracao_paginas" lang="pt-BR">16</p>
+		</div>
+		<div id="_idContainer017" class="conteudo_pg16">
+			<h2 class="titulo--2 titulo_1" lang="pt-BR">Relações métricas em um triângulo qualquer</h2>
+			<p class="texto--normal texto_normal" lang="pt-BR">Uma das principais aplicações da Trigonometria é na resolução de problemas que podem ser modelados por triângulos quaisquer em que é necessário determinar suas medidas (lineares ou angulares) com base nas medidas de outros elementos, como lados, alturas e ângulos.</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Até aqui estudamos triângulos retângulos, Teorema de Pitágoras e razões trigonométricas. A partir de agora, vamos estudar e analisar relações métricas que podemos estabelecer em um triângulo qualquer. Para isso, é importante recordar o conceito de triângulo acutângulo e de triângulo obtusângulo.</p>
+			<div>
+				<div id="_idContainer011" class="box--destaque destaque">
+					<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/2.png" alt=""></p>
+					<p class="texto--normal box_texto" lang="pt-BR">Um triângulo acutângulo ABC possui três <strong class="negrito_principal">ângulos agudos</strong>, ou seja, cada ângulo mede menos de 90°.</p>
+				</div>
+			</div>
+			<div>
+				<div id="_idContainer013" class="box--destaque destaque">
+					<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/3.png" alt=""></p>
+					<p class="texto--normal box_texto" lang="pt-BR">Um triângulo obtusângulo ABC possui um <strong class="negrito_principal">ângulo obtuso</strong>, aquele cuja medida é maior do que 90° e menor do que 180°.</p>
+				</div>
+			</div>
+			<p class="texto--normal texto_normal" lang="pt-BR">Para demonstrar relações métricas em um triângulo qualquer, vamos considerar o seguinte triângulo acutângulo ABC, no qual foi traçada a altura referente ao vértice C.</p>
+			<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/4.png" alt=""></p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Nesse triângulo, <strong class="negrito_principal">a</strong> é a medida do lado oposto ao ângulo agudo com vértice em A, e <strong class="negrito_principal">m</strong> é a medida do segmento <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn001.jpg" alt="">, ou seja, a projeção ortogonal do lado de medida <strong class="negrito_principal">b</strong> sobre o lado de medida <strong class="negrito_principal">c</strong>.</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">No triângulo ADC, temos:</p>
+			<p class="ancorado" lang="pt-BR">b<sup class="sobrescrito">2</sup> = m<sup class="sobrescrito">2</sup> + h<sup class="sobrescrito">2</sup> <span class="symbol">⇒</span> h<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> – m<sup class="sobrescrito">2</sup> (I)</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">No triângulo BCD, temos:</p>
+			<p class="ancorado" lang="pt-BR">a<sup class="sobrescrito">2</sup> = h<sup class="sobrescrito">2</sup> + DB<sup class="sobrescrito">2</sup> (II)</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Como DB = c – m, substituindo (I) em (II), temos:</p>
+			<p class="ancorado" lang="pt-BR">a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> – m<sup class="sobrescrito">2</sup> + (c – m)<sup class="sobrescrito">2</sup></p>
+			<p class="ancorado" lang="pt-BR">a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> – m<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup> – 2cm + m<sup class="sobrescrito">2</sup></p>
+			<p class="ancorado" lang="pt-BR">a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup> – 2cm</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Como <strong class="negrito_principal">a</strong> é a medida do lado oposto a um ângulo agudo do triângulo, e <strong class="negrito_principal">m</strong> é a projeção do lado de medida <strong class="negrito_principal">b</strong> sobre o lado de medida <strong class="negrito_principal">c</strong>, obtemos a propriedade geral a seguir.</p>
+			<div>
+				<div id="_idContainer016" class="box--destaque conceito">
+					<p class="texto--normal box_texto" lang="pt-BR">Em qualquer triângulo acutângulo, o quadrado da medida do lado oposto a um ângulo agudo é igual à soma dos quadrados das medidas dos outros dois lados menos duas vezes o produto da medida de um desses lados pela projeção do outro lado sobre ele.</p>
+				</div>
+			</div>
+		</div>
+		<div id="_idContainer018" class="pagina">
+			<p class="numeracao_paginas" lang="pt-BR">17</p>
+		</div>
+		<div id="_idContainer032" class="conteudo_pg17">
+			<p class="texto--normal texto_normal" lang="pt-BR">Agora, considere o triângulo obtusângulo ABC a seguir.</p>
+			<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/5.png" alt=""></p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Nesse triângulo, <strong class="negrito_principal">a</strong> é a medida do lado oposto ao ângulo obtuso com vértice em A, e <strong class="negrito_principal">m</strong> é a medida do segmento <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn001.jpg" alt="">, ou seja, a projeção ortogonal do lado de medida <strong class="negrito_principal">b</strong> sobre o prolongamento do lado de medida <strong class="negrito_principal">c</strong>.</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">No triângulo ACD, temos:</p>
+			<p class="ancorado" lang="pt-BR">b<sup class="sobrescrito">2</sup> = h<sup class="sobrescrito">2</sup> + m<sup class="sobrescrito">2</sup> <span class="symbol">⇒</span> h<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> – m<sup class="sobrescrito">2</sup> (I)</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">No triângulo BCD, temos:</p>
+			<p class="ancorado" lang="pt-BR">a<sup class="sobrescrito">2</sup> = h<sup class="sobrescrito">2</sup> + DB<sup class="sobrescrito">2</sup> (II)</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Como DB = m + c, substituindo (I) em (II), temos:</p>
+			<p class="ancorado" lang="pt-BR">a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> – m<sup class="sobrescrito">2</sup> + (m + c)<sup class="sobrescrito">2</sup></p>
+			<p class="ancorado" lang="pt-BR">a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> – m<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup> + 2cm + m<sup class="sobrescrito">2</sup></p>
+			<p class="ancorado" lang="pt-BR">a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup> + 2cm</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Assim, tem-se a propriedade geral a seguir.</p>
+			<div>
+				<div id="_idContainer021" class="box--destaque conceito">
+					<p class="texto--normal box_texto" lang="pt-BR">Em qualquer triângulo obtusângulo, o quadrado da medida do lado oposto ao ângulo obtuso é igual à soma dos quadrados das medidas dos outros dois lados mais duas vezes o produto da medida de um desses lados pela projeção do outro lado sobre ele.</p>
+				</div>
+			</div>
+			<p class="texto--normal texto_normal" lang="pt-BR">Se <strong class="negrito_principal">a</strong>, <strong class="negrito_principal">b</strong> e <strong class="negrito_principal">c</strong> são medidas dos lados de um triângulo, e <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn003.jpg" alt=""> é o ângulo que se opõe ao lado maior de medida <strong class="negrito_principal">a</strong>, obtemos as seguintes conclusões:</p>
+			<ul>
+				<li class="lista-nao-ordenada--n2 marcador_2" lang="pt-BR">se <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn004.jpg" alt=""> = 90°, então a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup><sup class="sobrescrito">,</sup> e o triângulo é retângulo;</li>
+				<li class="lista-nao-ordenada--n2 marcador_2" lang="pt-BR">se <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn004.jpg" alt=""> &lt; 90°, então a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup> – 2cm e, portanto, a<sup class="sobrescrito">2</sup> &lt; b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup>; logo, o triângulo é acutângulo;</li>
+				<li class="lista-nao-ordenada--n2 marcador_2" lang="pt-BR">se <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn004.jpg" alt=""> &gt; 90°, então a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup> + 2cm e, portanto, a<sup class="sobrescrito">2</sup> &gt; b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup>; logo, o triângulo é obtusângulo.</li>
+			</ul>
+			<p class="titulo--box titulo_box_texto_1" lang="pt-BR">EXERCÍCIOS RESOLVIDOS</p>
+			<div>
+				<div id="_idContainer031" class="box--texto box_texto_1">
+					<ol>
+						<li class="lista-ordenada--atividade questao questao_box" lang="pt-BR">Determine o valor de <strong class="negrito_principal">x</strong> em cada triângulo.<ol><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/6.png" alt=""></li></ol></li>
+					</ol>
+					<p class="texto--normal questao_sem_numero" lang="pt-BR">Nesse caso, o triângulo ABC é obtusângulo, portanto, podemos utilizar a seguinte equação para calcular a medida <strong class="negrito_principal">x</strong>:</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">x<sup class="sobrescrito">2</sup> = 5<sup class="sobrescrito">2</sup> + 8<sup class="sobrescrito">2</sup> + 2 · 8 · 2</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">x<sup class="sobrescrito">2</sup> = 25 + 64 + 32</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">x<sup class="sobrescrito">2</sup> = 121</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">x = –<img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn007.jpg" alt=""> ou x = <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn007.jpg" alt=""></p>
+					<p class="texto--normal texto_normal" lang="pt-BR">x = –11 ou x = 11</p>
+					<p class="texto--normal questao_sem_numero" lang="pt-BR">Por se tratar da medida de um de lado, concluímos que x = 11, pois, nesse caso, essa medida deve ser sempre considerada um valor positivo.</p>
+					<ol>
+						<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/7.png" alt=""></li>
+					</ol>
+					<p class="texto--normal questao_sem_numero" lang="pt-BR">Nesse caso, o triângulo ABC é acutângulo, portanto, podemos utilizar a seguinte expressão para calcular a medida <strong class="negrito_principal">x</strong>:</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">x<sup class="sobrescrito">2</sup> = 5<sup class="sobrescrito">2</sup> + 12<sup class="sobrescrito">2</sup> – 2 · 2 · 12</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">x<sup class="sobrescrito">2</sup> = 25 + 144 – 48</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">x<sup class="sobrescrito">2</sup> = 121</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">x = <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn007.jpg" alt=""></p>
+					<p class="texto--normal texto_normal" lang="pt-BR">x = 11</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">Concluímos, então, que x = 11.</p>
+				</div>
+			</div>
+		</div>
+		<div id="_idContainer033" class="pagina">
+			<p class="numeracao_paginas" lang="pt-BR">18</p>
+		</div>
+		<div id="_idContainer037" class="conteudo_pg18">
+			<p class="titulo--box titulo_box_matematicas" lang="pt-BR">AGORA É COM @VOCÊ</p>
+			<div>
+				<div id="_idContainer036" class="box--texto box_matematicas">
+					<ol>
+						<li class="lista-ordenada--atividade questao_agora_com_vc" lang="pt-BR">Determine o valor de <strong class="negrito_principal">x</strong> em cada triângulo.<ol><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/8.png" alt=""></li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/9.png" alt=""></li></ol></li>
+						<li class="lista-ordenada--atividade questao_agora_com_vc" lang="pt-BR">Determine a medida do triângulo descrito em cada item.<ol><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">Os lados <strong class="negrito_principal">a</strong> e <strong class="negrito_principal">b</strong> de um triângulo medem 3 cm e 5 cm, respectivamente, e a projeção do lado <strong class="negrito_principal">c</strong> sobre <strong class="negrito_principal">b</strong> mede 6,5 cm. Calcule a medida do lado <strong class="negrito_principal">c</strong>, sabendo que ele se opõe ao ângulo obtuso.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">Um triângulo acutângulo tem os lados <strong class="negrito_principal">a</strong> e <strong class="negrito_principal">b</strong> medindo, respectivamente, 7 cm e 12 cm. A projeção de <strong class="negrito_principal">a</strong> sobre <strong class="negrito_principal">b</strong> mede 3 cm. Determine a medida do lado <strong class="negrito_principal">c</strong>.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">Os lados de um triângulo medem respectivamente 6 cm, 8 cm e 10 cm. Calcule a medida da altura relativa ao lado maior.</li></ol></li>
+						<li class="lista-ordenada--atividade questao_agora_com_vc" lang="pt-BR">Determine, em cada item se os triângulos das medidas indicadas são retângulos, acutângulos ou obtusângulos.<ol><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">a = 8 cm, b = 7 cm e c = 5 cm</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">a = 4 cm, b = 8 cm e c = 9 cm</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">a = 13 cm, b = 12 cm e c = 4 cm</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">a = 17 cm, b = 15 cm e c = 8 cm</li></ol></li>
+					</ol>
+				</div>
+			</div>
+		</div>
+		<div id="_idContainer038" class="pagina">
+			<p class="numeracao_paginas" lang="pt-BR">19</p>
+		</div>
+		<div id="_idContainer046" class="conteudo_pg19">
+			<h2 class="titulo--2 titulo_1" lang="pt-BR">Seno e cosseno de um ângulo obtuso</h2>
+			<p class="texto--normal texto_normal" lang="pt-BR">No estudo das razões trigonométricas definimos seno, cosseno e tangente para ângulos agudos (0° &lt; <span class="symbol">α</span> &lt; 90°) de um triângulo retângulo. Embora seja possível calcular sen 0°, cos 0° e tg 0°, além de sen 90° e cos 90°, não utilizamos esses resultados, pois não pode existir um triângulo retângulo com ângulos internos que meçam 0° e 90°.</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Ao estudar um triângulo qualquer, podemos encontrar ângulos obtusos (90° &lt; <span class="symbol">α</span> &lt; 180°). Também nesses casos é possível calcular valores de seno, cosseno e tangente. Para isso, vamos definir esses conceitos com coordenadas cartesianas.</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">No caso do seno e do cosseno, vamos associá-los às coordenadas cartesianas de um ponto em uma semicircunferência de raio unitário, ou seja, r = 1.</p>
+			<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/10.png" alt=""></p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Nessa figura, o triângulo OAB, retângulo em B, tem hipotenusa que coincide com o raio da semicircunferência (r = 1). Além disso, identificamos o seno do ângulo <span class="symbol">α</span> como a ordenada do vértice A e o cosseno de <span class="symbol">α</span> como a abcissa do vértice A.</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Repare que isso coincide com o seno e o cosseno para ângulos agudos no triângulo retângulo definido no capítulo em que foram introduzidos os conceitos de seno e cosseno.</p>
+			<div>
+				<div id="_idContainer041" class="box--destaque destaque">
+					<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn010.jpg" alt=""></p>
+				</div>
+			</div>
+			<div>
+				<div id="_idContainer043" class="box--destaque destaque">
+					<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn011.jpg" alt=""></p>
+				</div>
+			</div>
+			<p class="texto--normal questao_sem_numero" lang="pt-BR">Analisando a figura, percebemos que AB = OC.</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Agora, vamos estender essas definições para um ângulo obtuso (90° &lt; <span class="symbol">β</span> &lt; 180°). Para isso, considere o ângulo <span class="symbol">β</span> representado a seguir.</p>
+			<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/11.png" alt=""></p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Nessa situação, os triângulos OAB e ODE são congruentes, e os ângulos <span class="symbol">α</span> e <span class="symbol">β</span> são suplementares, pois <span class="symbol">α</span> + <span class="symbol">β</span> = 180° e <span class="symbol">β</span> = 180° – <span class="symbol">α</span>.</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Assim, definimos as seguintes relações:</p>
+			<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn012.jpg" alt=""></p>
+		</div>
+		<div id="_idContainer047" class="pagina">
+			<p class="numeracao_paginas" lang="pt-BR">20</p>
+		</div>
+		<div id="_idContainer052" class="conteudo_pg20">
+			<p class="texto--normal texto_normal" lang="pt-BR">Ou ainda:</p>
+			<ul>
+				<li class="lista-nao-ordenada--n2 marcador_2" lang="pt-BR">cos (180° – <span class="symbol">α</span>) = –cos <span class="symbol">α</span></li>
+				<li class="lista-nao-ordenada--n2 marcador_2" lang="pt-BR">sen (180° – <span class="symbol">α</span>) = sen <span class="symbol">α</span></li>
+			</ul>
+			<p class="texto--normal texto_normal" lang="pt-BR">Perceba que, se <span class="symbol">α</span> é um ângulo agudo (0° &lt; <span class="symbol">α</span> &lt; 90°), os valores do seno e do cosseno são positivos; se <span class="symbol">α</span> é um ângulo obtuso (90° &lt; <span class="symbol">α</span> &lt; 180°), o valor do seno é positivo, e o do cosseno é negativo.</p>
+			<h2 class="titulo--2 titulo_1" lang="pt-BR">Lei dos Cossenos</h2>
+			<p class="texto--normal texto_normal" lang="pt-BR">A Lei dos Cossenos pode ser enunciada da maneira a seguir.</p>
+			<div>
+				<div id="_idContainer048" class="box--destaque conceito">
+					<p class="texto--normal texto_normal" lang="pt-BR">Em um triângulo qualquer, o quadrado da medida de um lado é igual à soma dos quadrados das medidas dos outros lados, menos duas vezes o produto das medidas desses lados pelo cosseno do ângulo formado por eles.</p>
+				</div>
+			</div>
+			<p class="texto--normal texto_normal" lang="pt-BR">Assim, no triângulo ABC a seguir, temos:</p>
+			<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/12.png" alt=""></p>
+			<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn013.jpg" alt=""></p>
+			<p class="texto--normal texto_normal" lang="pt-BR"><strong class="negrito_principal">Demonstração</strong></p>
+			<p class="texto--normal texto_normal" lang="pt-BR">A demonstração se assemelha às que foram realizadas anteriormente para medidas métricas em um triângulo qualquer. Assim, vamos provar a primeira relação (a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup> – 2 · b · c · cos <span class="symbol">α</span>) para três casos de triângulo; as demais relações têm demonstrações análogas.</p>
+			<p class="texto--normal texto_normal" lang="pt-BR"><strong class="negrito_principal">1</strong><strong class="negrito_principal">º</strong><strong class="negrito_principal"> caso:</strong> <span class="symbol">α</span> = 90° (triângulo retângulo)</p>
+			<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/13.png" alt=""></p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Nesse caso, cos <span class="symbol">α</span> = cos 90° = 0. Ao substituir esse resultado na primeira relação, temos:</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup> – 2 · b · c · cos <span class="symbol">α</span></p>
+			<p class="texto--normal texto_normal" lang="pt-BR">a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup> – 2 · b · c · cos 90°</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup> – 2 · b · c · 0</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup></p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Chegamos ao Teorema de Pitágoras, como era esperado para um triângulo retângulo.</p>
+		</div>
+		<div id="_idContainer053" class="pagina">
+			<p class="numeracao_paginas" lang="pt-BR">21</p>
+		</div>
+		<div id="_idContainer061" class="conteudo_pg21">
+			<p class="texto--normal texto_normal" lang="pt-BR"><strong class="negrito_principal">2</strong><strong class="negrito_principal">º</strong><strong class="negrito_principal"> caso:</strong> <span class="symbol">α</span> &lt; 90° (triângulo acutângulo)</p>
+			<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/14.png" alt=""></p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Nesse caso, <strong class="negrito_principal">h</strong> é a medida da altura <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn014.jpg" alt="">, e <strong class="negrito_principal">m</strong> é a medida da projeção ortogonal do lado de medida <strong class="negrito_principal">b</strong> sobre o lado de medida <strong class="negrito_principal">c</strong>.</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">No triângulo BDC, temos:</p>
+			<p class="ancorado" lang="pt-BR">a<sup class="sobrescrito">2</sup> = h<sup class="sobrescrito">2</sup> + (c – m)<sup class="sobrescrito">2</sup> <span class="symbol">⇒</span> a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup> – 2 cm (I)</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">No triângulo ADC, temos:</p>
+			<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn015.jpg" alt=""> (II)</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Substituindo (II) em (I), chegamos a:</p>
+			<p class="ancorado" lang="pt-BR">a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup> – 2 · b · c · cos <span class="symbol">α</span></p>
+			<p class="texto--normal texto_normal" lang="pt-BR"><strong class="negrito_principal">3</strong><strong class="negrito_principal">º</strong><strong class="negrito_principal"> caso:</strong> <span class="symbol">α</span> &gt; 90° (triângulo obtusângulo)</p>
+			<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/15.png" alt=""></p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Nesse caso, <strong class="negrito_principal">h</strong> é a medida da altura <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn016.jpg" alt="">, e <strong class="negrito_principal">m</strong> é a medida da projeção ortogonal do lado de medida <strong class="negrito_principal">b</strong> sobre a reta que contém o lado de medida <strong class="negrito_principal">c</strong>.</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">No triângulo BDC, temos:</p>
+			<p class="ancorado" lang="pt-BR">a<sup class="sobrescrito">2</sup> = h<sup class="sobrescrito">2</sup> + (c + m)<sup class="sobrescrito">2</sup> <span class="symbol">⇒</span> a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup> + 2 cm (I)</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">No triângulo ADC, temos:</p>
+			<p class="ancorado" lang="pt-BR">cos (180° – <span class="symbol">α</span>) = –cos <span class="symbol">α</span> = <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn017.jpg" alt=""> <span class="symbol">⇒</span> m = –b ∙ cos <span class="symbol">α</span> (II)</p>
+			<p class="texto--normal texto_normal" lang="pt-BR">Substituindo (II) em (I), chegamos a:</p>
+			<p class="ancorado" lang="pt-BR">a<sup class="sobrescrito">2</sup> = b<sup class="sobrescrito">2</sup> + c<sup class="sobrescrito">2</sup> – 2 · b · c · cos <span class="symbol">α</span></p>
+			<p class="texto--normal texto_normal" lang="pt-BR">A Lei dos Cossenos é recomendada na análise de triângulos nos casos a seguir.</p>
+			<div>
+				<div id="_idContainer060" class="box--destaque conceito">
+					<ul>
+						<li class="lista-nao-ordenada--n2 marcador_box" lang="pt-BR">Quando conhecemos a medida dos três lados do triângulo e desejamos calcular a medida de um dos ângulos.</li>
+						<li class="lista-nao-ordenada--n2 marcador_box" lang="pt-BR">Quando conhecemos a medida de dois lados e do ângulo por eles compreendido e desejamos calcular a medida do terceiro lado.</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div id="_idContainer062" class="pagina">
+			<p class="numeracao_paginas" lang="pt-BR">22</p>
+		</div>
+		<div id="_idContainer074" class="conteudo_pg22">
+			<p class="titulo--box titulo_box_texto_1" lang="pt-BR">EXERCÍCIOS RESOLVIDOS</p>
+			<div>
+				<div id="_idContainer073" class="box--texto box_texto_1">
+					<ol>
+						<li class="lista-ordenada--atividade questao questao_box" lang="pt-BR">Determine a medida das duas diagonais de um paralelogramo cujo ângulo maior mede 120°, e os lados medem 10 cm e 20 cm respectivamente.</li>
+					</ol>
+					<p class="texto--normal questao_sem_numero" lang="pt-BR">Nesse caso, a diagonal maior corresponde ao lado oposto ao ângulo de 120° no triângulo obtusângulo ABD, conforme representação a seguir.</p>
+					<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/16.png" alt=""></p>
+					<p class="texto--normal questao_sem_numero" lang="pt-BR">Aplicando a Lei dos Cossenos nesse triângulo, obtemos:</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">x<sup class="sobrescrito">2</sup> = 10<sup class="sobrescrito">2</sup> + 20<sup class="sobrescrito">2</sup> – 2 · 10 · 20 · cos 120° </p>
+					<p class="texto--normal texto_normal" lang="pt-BR">cos 120° = –cos 60° = <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn018.jpg" alt=""></p>
+					<p class="texto--normal texto_normal" lang="pt-BR">x<sup class="sobrescrito">2</sup> = 100 + 400 – 400 · <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn019.jpg" alt=""></p>
+					<p class="texto--normal texto_normal" lang="pt-BR">x<sup class="sobrescrito">2</sup> = 700</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">x = <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn020.jpg" alt=""></p>
+					<p class="texto--normal texto_normal" lang="pt-BR">Para determinar a medida da diagonal menor, observe a figura a seguir, que ajuda a perceber que o ângulo externo ao lado <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn021.jpg" alt=""> é suplementar do ângulo interno de 120°, portanto, mede 60°.</p>
+					<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/17.png" alt=""></p>
+					<p class="texto--normal texto_normal" lang="pt-BR">Com base no que estudamos sobre retas paralelas cortadas por uma transversal, concluímos que o ângulo <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn022.jpg" alt=""> também mede 60°. Utilizando cos 60° = <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn023.jpg" alt=""> e a Lei dos Cossenos, temos:</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">y<sup class="sobrescrito">2</sup> = 10<sup class="sobrescrito">2</sup> + 20<sup class="sobrescrito">2</sup> – 2 · 10 · 20 · cos 60°</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">y<sup class="sobrescrito">2</sup> = 100 + 400 – 400 · <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn024.jpg" alt=""></p>
+					<p class="texto--normal texto_normal" lang="pt-BR">y<sup class="sobrescrito">2</sup> = 300</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">y = <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn025.jpg" alt=""></p>
+					<p class="texto--normal questao_sem_numero" lang="pt-BR">Portanto, a diagonal maior desse paralelogramo mede 26,46 cm, e a diagonal menor mede 17,32 cm.</p>
+				</div>
+			</div>
+		</div>
+		<div id="_idContainer075" class="pagina">
+			<p class="numeracao_paginas" lang="pt-BR">23</p>
+		</div>
+		<div id="_idContainer085" class="conteudo_pg23">
+			<p class="titulo--box titulo_box_matematicas" lang="pt-BR">ZOOM OUT</p>
+			<div>
+				<div id="_idContainer084" class="box--texto box_matematicas">
+					<h2 class="titulo--2 titulo_1" lang="pt-BR">Uma aplicação da Lei dos Cossenos</h2>
+					<p class="texto--normal texto_normal" lang="pt-BR">Considere duas forças <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn026.jpg" alt=""> e <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn027.jpg" alt=""> que formam entre si um ângulo <span class="symbol">α</span>, conforme figura a seguir. A intensidade da força resultante <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn028.jpg" alt=""> é dada pelo módulo da medida da diagonal maior. Matemáticos e físicos chamam esse procedimento de <strong class="negrito_principal">regra do paralelogramo</strong>.</p>
+					<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/18.png" alt=""></p>
+					<p class="texto--normal texto_normal" lang="pt-BR">Por exemplo, para determinar a força resultante de duas forças de intensidades 10 N e 5 N, podemos utilizar a Lei dos Cossenos. Considere a seguinte representação.</p>
+					<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/19.png" alt=""></p>
+					<p class="texto--normal texto_normal" lang="pt-BR">R<sup class="sobrescrito">2</sup> = F<sub class="subscrito">1</sub><sup class="sobrescrito">2</sup> + F<sub class="subscrito">2</sub><sup class="sobrescrito">2</sup> – 2 · F<sub class="subscrito">1</sub> · F<sub class="subscrito">2</sub> · cos 120°</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">cos 120° = –cos 60° = –0,5 </p>
+					<p class="texto--normal texto_normal" lang="pt-BR">R<sup class="sobrescrito">2</sup> = 5<sup class="sobrescrito">2</sup> + 10<sup class="sobrescrito">2</sup> – 2 · 10 · 5 · (– 0,5)</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">R<sup class="sobrescrito">2</sup> = 25 + 100 – 100 · (–0,5)</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">R<sup class="sobrescrito">2</sup> = 175</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">R = <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn029.jpg" alt=""></p>
+					<p class="texto--normal texto_normal" lang="pt-BR">Portanto, o módulo da força resultante é 13,23 N.</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">Agora, resolva a questão a seguir que envolve resultante de velocidade vetorial.</p>
+					<p class="texto--normal texto_normal" lang="pt-BR">Considere um avião que se desloca entre dois pontos A e B, de Sul a Norte, com 240 km/h em relação ao vento. Em certo momento, um vento a 60 km/h vem contra a aeronave com inclinação de 45° no sentido indicado no esquema a seguir. Calcule o módulo da velocidade resultante do avião para continuar o sentido do percurso de A até B e a medida do ângulo <span class="symbol">θ</span>.</p>
+					<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/20.png" alt=""></p>
+					<p class="texto--normal questao_sem_numero" lang="pt-BR"><strong class="negrito_principal">Dados:</strong></p>
+					<table id="table001" class="tabela--horizontal _idGenTablePara-1">
+						<colgroup>
+							<col>
+							<col>
+							<col>
+						</colgroup>
+						<thead>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal topo_tabela_1">
+								</td><td class="tabela--horizontal topo_tabela_1">
+								</td><td class="tabela--horizontal topo_tabela_1">
+							</td></tr>
+						</thead>
+						<tbody>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR"><span class="symbol" lang="ar-SA">θ</span>(°)</p>
+								</td>
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">cos</p>
+								</td>
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">sen</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">45</p>
+								</td>
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">0,71</p>
+								</td>
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">0,71</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">60</p>
+								</td>
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">0,50</p>
+								</td>
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">0,87</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">70</p>
+								</td>
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">0,34</p>
+								</td>
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">0,94</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">80</p>
+								</td>
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">0,17</p>
+								</td>
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">0,98</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">90</p>
+								</td>
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">0</p>
+								</td>
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela" lang="pt-BR">1</p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/21.png" alt=""></p>
+				</div>
+			</div>
+		</div>
+		<div id="_idContainer086" class="pagina">
+			<p class="numeracao_paginas" lang="pt-BR">24</p>
+		</div>
+		<div id="_idContainer096" class="conteudo_pg24">
+			<div id="_idContainer088" class="box--texto box_matematicas">
+				<p class="texto--normal texto_normal" lang="pt-BR"><strong class="negrito_principal">Resolução: </strong></p>
+				<p class="texto--normal texto_normal" lang="pt-BR">Aplicando a Lei dos Cossenos no triângulo a seguir, obtemos a velocidade resultante.</p>
+				<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/22.png" alt=""></p>
+				<p class="texto--normal texto_normal" lang="pt-BR">240<sup class="sobrescrito">2</sup> = v<sub class="subscrito">res</sub><sup class="sobrescrito">2</sup> + 60<sup class="sobrescrito">2</sup> – 2 · v<sub class="subscrito">res</sub> · 60 · cos 135°</p>
+				<p class="texto--normal texto_normal" lang="pt-BR">57<sub class="subscrito"> </sub>600 = v<sub class="subscrito">res</sub><sup class="sobrescrito">2</sup> + 3<sub class="subscrito"> </sub>600 + 85,2v<sub class="subscrito">res</sub></p>
+				<p class="texto--normal texto_normal" lang="pt-BR">v<sub class="subscrito">res</sub><sup class="sobrescrito">2</sup> + 85,2v<sub class="subscrito">res</sub> – 54<sub class="subscrito"> </sub>000 = 0</p>
+				<p class="texto--normal texto_normal" lang="pt-BR">v<sub class="subscrito">res</sub> = 193,7 km/h</p>
+				<p class="texto--normal texto_normal" lang="pt-BR">Aplicando novamente a Lei dos Cossenos, chegamos ao ângulo pedido.</p>
+				<p class="texto--normal texto_normal" lang="pt-BR">60<sup class="sobrescrito">2</sup> = 193,7<sup class="sobrescrito">2</sup> + 240<sup class="sobrescrito">2</sup> – 2 · 193,7 · 240 · cos (90° – <span class="symbol">θ</span>)</p>
+				<p class="texto--normal texto_normal" lang="pt-BR">3<sub class="subscrito"> </sub>600 = 37<sub class="subscrito"> </sub>519,7 + 57<sub class="subscrito"> </sub>600 – 92<sub class="subscrito"> </sub>976 ∙ sen <span class="symbol">θ</span></p>
+				<p class="texto--normal texto_normal" lang="pt-BR">sen <span class="symbol">θ</span> = 0,98</p>
+				<p class="texto--normal texto_normal" lang="pt-BR">Portanto, <span class="symbol">θ</span> = 80°.</p>
+			</div>
+			<p class="titulo--box titulo_box_matematicas" lang="pt-BR">AGORA É COM @VOCÊ</p>
+			<div>
+				<div id="_idContainer095" class="box--texto box_matematicas">
+					<ol>
+						<li class="lista-ordenada--atividade questao_agora_com_vc" lang="pt-BR">Use uma tabela trigonométrica para determinar o valor do seno e do cosseno de ângulos obtusos em cada caso.<ol><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">sen 120°</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">cos 150°</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">cos 154°</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">sen 132°</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">sen 135°</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">cos 120°</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">cos 160°</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">sen 150°</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">sen 160°</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">cos 135°</li></ol></li>
+						<li class="lista-ordenada--atividade questao_agora_com_vc" lang="pt-BR">(UECE) Desejando-se cercar uma área plana na forma de um triângulo cujos vértices estão nos pontos X, Y e Z, ao iniciar a construção da cerca, verificou-se que a localização do ponto Y tinha desaparecido. O mapa indicava que o comprimento do lado <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn030.jpg" alt=""> era 20 m, e o comprimento do lado <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn031.jpg" alt=""> era 30 m. Além disso, o ângulo (interno ao triângulo) entre <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn032.jpg" alt=""> e <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn033.jpg" alt=""> era 120 graus. Nessas condições, pode-se afirmar corretamente que o comprimento do lado <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn033.jpg" alt="">, em metros, é aproximadamente</li>
+					</ol>
+					<p class="texto--normal questao_sem_numero" lang="pt-BR"><strong class="negrito_principal">Dado:</strong> <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn035.jpg" alt=""> <span class="symbol">≅</span> 49.</p>
+					<ol>
+						<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">13,6.</li>
+						<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">14,5.</li>
+						<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">14,0.</li>
+						<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">15,1.</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+		<div id="_idContainer097" class="pagina">
+			<p class="numeracao_paginas" lang="pt-BR">25</p>
+		</div>
+		<div id="_idContainer104" class="conteudo_pg25">
+			<div id="_idContainer102" class="box--texto box_matematicas">
+				<ol>
+					<li class="lista-ordenada--atividade questao_agora_com_vc" lang="pt-BR">(FGV-SP) Jorge e Miguel estão jogando tênis. Jorge rebate a bolinha, e esta percorre 16 metros em linha reta. Miguel a devolve em linha reta com um ângulo de 30° com a linha reta descrita pela bolinha após a rebatida de Jorge. Dessa vez, a bolinha percorre 10 metros. Que distância deverá percorrer Jorge para rebater a bolinha?</li>
+				</ol>
+				<p class="texto--normal questao_sem_numero" lang="pt-BR"><strong class="negrito_principal">Dado:</strong> <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn036.jpg" alt="">. </p>
+				<ol>
+					<li class="lista-ordenada--atividade questao_agora_com_vc" lang="pt-BR">(UPE-SSA) João está procurando cercar um terreno triangular que ele comprou no campo. Ele sabe que dois lados desse terreno medem, respectivamente, 10 m e 6 m e formam entre si um ângulo de 120°. O terreno será cercado com três voltas de arame farpado. Se o preço do metro do arame custa R$ 5,00, qual será o valor gasto por João com a compra do arame?</li>
+				</ol>
+				<p class="texto--normal questao_sem_numero" lang="pt-BR"><strong class="negrito_principal">Dados:</strong> sen 120° = <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn037.jpg" alt=""> e cos 120° = <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn018.jpg" alt="">.</p>
+				<ol>
+					<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">R$ 300,00</li>
+					<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">R$ 420,00</li>
+					<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">R$ 450,00</li>
+					<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">R$ 500,00</li>
+					<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">R$ 520,00</li>
+				</ol>
+				<ol>
+					<li class="lista-ordenada--atividade questao_agora_com_vc" lang="pt-BR">(UFG) Uma empresa de vigilância irá instalar um sistema de segurança em um condomínio fechado, representado pelo polígono da figura a seguir.</li>
+				</ol>
+				<p class="ancorado" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/23.png" alt=""></p>
+				<p class="texto--normal questao_sem_numero" lang="pt-BR">A empresa pretende colocar uma torre de comunicação, localizada no ponto A, indicado na figura, que seja equidistante dos vértices do polígono, indicados por P, Q, R, S e T, onde serão instalados os equipamentos de segurança. Sabe-se que o lado RQ desse polígono mede 3 000 m, e as medidas dos outros lados são todas iguais à distância do ponto A aos vértices do polígono. Calcule a distância do ponto A, onde será instalada a torre, aos vértices do polígono. </p>
+			</div>
+			<p class="titulo--box titulo_box_matematicas" lang="pt-BR">RUBRICA</p>
+			<div>
+				<div id="_idContainer103" class="box--texto box_matematicas">
+					<ul>
+						<li class="lista-nao-ordenada--n2 marcador_box" lang="pt-BR">Consigo compreender e aplicar relações métricas para resolver problemas que envolvam triângulos quaisquer?</li>
+						<li class="lista-nao-ordenada--n2 marcador_box" lang="pt-BR">Compreendo as definições de seno e de cosseno de um ângulo obtuso por meio de coordenadas cartesianas?</li>
+						<li class="lista-nao-ordenada--n2 marcador_box" lang="pt-BR">Determino o valor do seno e do cosseno de ângulos obtusos aplicando a relação entre ângulos suplementares?</li>
+						<li class="lista-nao-ordenada--n2 marcador_box" lang="pt-BR">Compreendo o processo de demonstração da Lei dos Cossenos?</li>
+						<li class="lista-nao-ordenada--n2 marcador_box" lang="pt-BR">Realizo cálculos das medidas de um triângulo qualquer aplicando a Lei dos Cossenos?</li>
+						<li class="lista-nao-ordenada--n2 marcador_box" lang="pt-BR">Sou capaz de determinar uma resultante vetorial aplicando a Lei dos Cossenos?</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div id="_idContainer105" class="pagina">
+			<p class="numeracao_paginas" lang="pt-BR">26</p>
+		</div>
+		<div id="_idContainer120" class="conteudo_pg26">
+			<p class="titulo--atividade titulo_atividades_propostas" lang="pt-BR">ATIVIDADES PROPOSTAS</p>
+			<ol>
+				<li class="lista-ordenada--atividade questao questao_proposta" lang="pt-BR">(UPE-SSA) No paralelogramo ABCD da figura, as medidas dos segmentos <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn039.jpg" alt=""> e <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn040.jpg" alt=""> são, respectivamente, 4 cm e 6 cm, e a medida do ângulo formado por esses segmentos é 60°.</li>
+			</ol>
+			<p class="ancorado_atividade" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/24.png" alt=""></p>
+			<p class="texto--normal questao_sem_numero" lang="pt-BR">Qual é a medida, em cm, da diagonal <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn041.jpg" alt="">? </p>
+			<p class="texto--normal questao_sem_numero" lang="pt-BR">Use <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn042.jpg" alt=""> </p>
+			<ol>
+				<li class="lista-ordenada--alfabeto item_com_letra_colunado" lang="pt-BR">5,1</li>
+				<li class="lista-ordenada--alfabeto item_com_letra_colunado" lang="pt-BR">5,3</li>
+				<li class="lista-ordenada--alfabeto item_com_letra_colunado" lang="pt-BR">5,6</li>
+				<li class="lista-ordenada--alfabeto item_com_letra_colunado" lang="pt-BR">6,2</li>
+				<li class="lista-ordenada--alfabeto item_com_letra_colunado" lang="pt-BR">6,8</li>
+			</ol>
+			<ol>
+				<li class="lista-ordenada--atividade questao questao_proposta" lang="pt-BR">(UECE) A medida, em graus, do maior dos ângulos internos de um triângulo cujas medidas dos lados são, respectivamente, 3 m, 5 m e 7 m, é <ol><li class="lista-ordenada--alfabeto item_com_letra_colunado" lang="pt-BR">120.</li><li class="lista-ordenada--alfabeto item_com_letra_colunado" lang="pt-BR">80.</li><li class="lista-ordenada--alfabeto item_com_letra_colunado" lang="pt-BR">130.</li><li class="lista-ordenada--alfabeto item_com_letra_colunado" lang="pt-BR">100.</li></ol></li>
+				<li class="lista-ordenada--atividade questao questao_proposta" lang="pt-BR">(UFPI) Em um triângulo, um dos ângulos mede 60°, e os lados adjacentes a este ângulo medem 1 cm e 2 cm. O valor do perímetro desse triângulo, em centímetros, é <ol><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">3 + <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn043.jpg" alt="">.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">5 + <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn044.jpg" alt="">.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">3 + <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn044.jpg" alt=""> </li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">3 + <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn046.jpg" alt="">.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">5 + <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn046.jpg" alt="">.</li></ol></li>
+				<li class="lista-ordenada--atividade questao questao_proposta" lang="pt-BR">(UECE) Se as medidas de dois dos lados de um triângulo são respectivamente 7 m e <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn048.jpg" alt=""> m, e se a medida do ângulo entre esses lados é 135 graus, então, a medida, em metros, do terceiro lado é <ol><li class="lista-ordenada--alfabeto item_com_letra_colunado" lang="pt-BR">12.</li><li class="lista-ordenada--alfabeto item_com_letra_colunado" lang="pt-BR">15.</li><li class="lista-ordenada--alfabeto item_com_letra_colunado" lang="pt-BR">13.</li><li class="lista-ordenada--alfabeto item_com_letra_colunado" lang="pt-BR">14.</li></ol></li>
+				<li class="lista-ordenada--atividade questao questao_proposta" lang="pt-BR">(PUC-RJ) Os lados do triângulo ABC têm os seguintes comprimentos: <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn039.jpg" alt=""> tem comprimento 17, <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn041.jpg" alt=""> tem comprimento 34 e <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn040.jpg" alt=""> tem comprimento 38. Qual afirmação sobre o ângulo Â = BAC é correta? <ol><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">O ângulo Â é reto.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">O ângulo Â é agudo e maior do que 60°.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">O ângulo Â é menor ou igual a 60°.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">O ângulo Â é obtuso. </li></ol></li>
+				<li class="lista-ordenada--atividade questao questao_proposta" lang="pt-BR">(UECE) A medida do cosseno do maior dos ângulos internos do triângulo cujas medidas dos lados são respectivamente 8 m, 10 m e 15 m é igual a <ol><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">–0,38125.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">–0,42112.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">–0,43713.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">–0,46812.</li></ol></li>
+			</ol>
+		</div>
+		<div id="_idContainer121" class="pagina">
+			<p class="numeracao_paginas" lang="pt-BR">27</p>
+		</div>
+		<div id="_idContainer141" class="conteudo_pg27">
+			<ol>
+				<li class="lista-ordenada--atividade questao questao_proposta" lang="pt-BR">(EFOMM) Considere o círculo a seguir de centro O e raio r. O valor do seno do ângulo correspondente ao menor arco delimitado por uma corda de comprimento <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn052.jpg" alt=""> é</li>
+			</ol>
+			<p class="ancorado_atividade" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/25.png" alt=""></p>
+			<ol>
+				<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">0</li>
+				<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn053.jpg" alt=""></li>
+				<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn054.jpg" alt=""></li>
+				<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn055.jpg" alt=""></li>
+				<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn056.jpg" alt=""></li>
+			</ol>
+			<ol>
+				<li class="lista-ordenada--atividade questao questao_proposta" lang="pt-BR">(UFSM) A caminhada é uma das atividades físicas que, quando realizada com frequência, torna-se eficaz na prevenção de doenças crônicas e na melhora da qualidade de vida.</li>
+			</ol>
+			<p class="texto--normal questao_sem_numero" lang="pt-BR">Para a prática de caminhada, uma pessoa sai do ponto A, passa pelos pontos B e C e retorna ao ponto A, conforme trajeto indicado na figura.</p>
+			<p class="texto--normal questao_sem_numero" lang="pt-BR"><strong class="negrito_principal">Dado:</strong> <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn34.jpg" alt="">.</p>
+			<p class="ancorado_atividade" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/26.png" alt=""></p>
+			<p class="texto--normal questao_sem_numero" lang="pt-BR">Quantos quilômetros ela terá caminhado, se percorrer todo o trajeto? </p>
+			<ol>
+				<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">2,29</li>
+				<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">2,33</li>
+				<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">3,16</li>
+				<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">3,50</li>
+				<li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">4,80</li>
+			</ol>
+			<ol>
+				<li class="lista-ordenada--atividade questao questao_proposta" lang="pt-BR">(UFRGS) Os lados de um losango medem 4, e um dos seus ângulos, 30°. A medida da diagonal menor do losango é<ol><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn057.jpg" alt="">.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn058.jpg" alt="">.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn059.jpg" alt="">.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn060.jpg" alt="">.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR"><img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn061.jpg" alt="">.</li></ol></li>
+				<li class="lista-ordenada--atividade questao questao_proposta" lang="pt-BR">(UECE) No triângulo AOC, o pé da altura relativa ao vértice O é o ponto H, o qual divide o lado <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn041.jpg" alt=""> nos segmentos <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn063.jpg" alt=""> e <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn064.jpg" alt="">. Se as medidas dos segmentos <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn063.jpg" alt=""> e <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn064.jpg" alt=""> são respectivamente 2 cm e 3 cm, e a medida da altura <img src="2023_1S_MAT2_L4_C13-web-resources/image/Eqn067.jpg" alt=""> é 6 cm, pode-se afirmar corretamente que a medida, em graus, do ângulo AÔC é<ol><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">60.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">45.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">9.</li><li class="lista-ordenada--alfabeto item_com_letra" lang="pt-BR">30.</li></ol></li>
+			</ol>
+		</div>
+	
+
+</body></html>

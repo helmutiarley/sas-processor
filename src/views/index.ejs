@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<%- include('includes/head') %>
+
+  <section class="container">
+    <h1>
+
+      <%= titulo %>
+
+    </h1>
+    <form action="/" method="POST" enctype="multipart/form-data">
+      <input type="file" name="arquivoHTML">
+      <button>Processar</button>
+    </form>
+  </section>
+
+<%- include('includes/footer') %>

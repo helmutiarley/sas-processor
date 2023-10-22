@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta charset="utf-8" />
+		<title>2023_1S_BIO1_L1_C1</title>
+		<link href="2023_1S_BIO1_L1_C1-web-resources/css/medio.css" rel="stylesheet" type="text/css" />
+		<link href="2023_1S_BIO1_L1_C1-web-resources/css/biologia.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body id="x2023_1S_BIO1_L1_C1" lang="pt-BR">
+		<div id="_idContainer000" class="pagina">
+			<p class="numeracao_paginas">1</p>
+		</div>
+		<div id="_idContainer001" class="conteudo_pg1">
+			<ol>
+				<li class="sumario_peso_1">Compostos inorgânicos e orgânicos   »   2</li>
+				<li class="sumario_peso_1">Introdução à Citologia   »   20</li>
+				<li class="sumario_peso_1">Membrana plasmática e citoplasma   »   30</li>
+				<li class="sumario_peso_1">Núcleo e divisão celular   »   48</li>
+			</ol>
+			<p class="sumario_peso_1">&#9;De olho no ENEM e vestibulares   »   64</p>
+		</div>
+		<div id="_idContainer002" class="pagina">
+			<p class="numeracao_paginas">2</p>
+		</div>
+		<div id="_idContainer003" class="CAPITULO1">
+			<p class="numero-capitulo numero_capitulo">1</p>
+			<h1 class="titulo--1 titulo_capitulo">Compostos inorgânicos e orgânicos</h1>
+			<p class="texto_hc">Moléculas, células e tecidos</p>
+			<p class="texto_hc">C4,5 | H14,15,17</p>
+			<p class="texto--normal texto_normal">EXPECTATIVAS DE APRENDIZAGEM</p>
+			<ul>
+				<li class="texto_expectativas">Compreender a importância dos compostos orgânicos e inorgânicos para o corpo.</li>
+				<li class="texto_expectativas">Reconhecer as características dos principais grupos de substâncias que compõem os seres vivos.</li>
+				<li class="texto_expectativas">Identificar os alimentos que contêm os compostos orgânicos e inorgânicos estudados.</li>
+			</ul>
+		</div>
+		<div id="_idContainer005" class="conteudo_pg2">
+			<p class="texto--normal texto_normal">O ar, as rochas, as plantas, os animais, os seres humanos e os objetos são todos constituídos de átomos, como o oxigênio (O), o carbono (C), o hidrogênio (H) e o nitrogênio (N), que se combinam formando moléculas. No entanto, muitas das moléculas encontradas nos seres vivos são diferentes daquelas encontradas na matéria não viva. É o caso das <strong class="negrito_principal">moléculas orgânicas</strong> – que apresentam carbono ligado ao hidrogênio em sua composição –, a exemplo dos carboidratos, lipídios, proteínas, ácidos nucleicos e vitaminas. Já as <strong class="negrito_principal">moléculas inorgânicas</strong>, como a água e os sais minerais, estão presentes tanto nos seres vivos quanto no ambiente.</p>
+			<p class="texto--normal texto_normal">O estudo dos compostos orgânicos e inorgânicos e do papel que eles desempenham nos seres vivos é o foco deste capítulo.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/1.jpg" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Grand Canyon, nos Estados Unidos.</p>
+		</div>
+		<div id="_idContainer006" class="pagina">
+			<p class="numeracao_paginas">3</p>
+		</div>
+		<div id="_idContainer009" class="conteudo_pg3">
+			<h2 class="titulo--2 titulo_1">Água</h2>
+			<h3 class="titulo--3 titulo_2">Teor de água nos seres vivos </h3>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/2.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Teor de água em diferentes partes do corpo humano.</p>
+			<p class="texto--normal texto_normal">A água é o componente mais abundante nos organismos, representando de 50% a 85% do total de compostos dos seres vivos. Nos seres humanos, cerca de 60% a 80% da sua massa corporal corresponde a água. Assim, em um adulto com 70 kg, há entre 42 L e 56 L de água no corpo, sendo que grande parte dela está presente no interior das células. </p>
+			<p class="texto--normal texto_normal">A quantidade de água varia de acordo com o tipo de organismo analisado, a idade dele e o tipo de tecido ou órgão estudado. Em águas-vivas, por exemplo, a porcentagem de água corresponde a cerca de 90% do total da massa corporal. Já em esporos de fungos, que sobrevivem por longos períodos sob condições adversas, o teor de água é de aproximadamente 10% da massa total. Nos seres humanos, o teor de água diminui com o avançar da idade. Em um recém-nascido, o teor de água encontra-se entre 75% e 80% da massa corporal. Por outro lado, em uma pessoa com mais de 60 anos, o teor de água consiste em menos de 60% de sua massa corpórea. É importante considerar ainda a taxa metabólica e a prática de atividades físicas, pois esses fatores também influenciam nas proporções de água no corpo.</p>
+			<p class="texto--normal texto_normal">Ao se considerar o teor de água nos tecidos e órgãos, verifica-se que ele varia de acordo com a taxa metabólica (isto é, a quantidade de energia utilizada por unidade de tempo) e com a quantidade de gordura presente. Assim, a porcentagem de água é de aproximadamente 84% da massa total na substância cinzenta do tecido nervoso, que apresenta taxa metabólica alta. Já no tecido adiposo, que se caracteriza por possuir grande quantidade de gordura e taxas metabólicas mais baixas, a quantidade de água é de cerca de 15%.</p>
+			<h3 class="titulo--3 titulo_2">Propriedades da água </h3>
+			<p class="texto--normal texto_normal">A água apresenta propriedades que a tornam uma substância fundamental para a vida. Uma dessas propriedades é a de dissolver uma grande quantidade de substâncias, razão pela qual a água é chamada de <strong class="negrito_principal">solvente universal</strong>. A capacidade de dissolução é o que faz dela um meio ideal para que ocorram as reações químicas nos seres vivos, além de permitir o transporte de compostos orgânicos e inorgânicos do meio extracelular para o interior das células e vice-versa.</p>
+			<p class="texto--normal texto_normal">A propriedade da água de atuar como solvente se deve, em grande parte, à sua <strong class="negrito_principal">polaridade</strong>, isto é, à presença, na molécula, de um polo positivo e um polo negativo. No caso da molécula de água, o polo negativo se forma em torno do átomo de oxigênio, enquanto o polo positivo se forma em torno dos dois átomos de hidrogênio.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/3.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Representação de uma molécula de água com a indicação de suas cargas, que originam um polo negativo e outro positivo na molécula.</p>
+			<p class="texto--normal texto_normal">As moléculas que têm atração pela água são designadas hidrofílicas (<em class="italico_principal">hidro</em>, água; <em class="italico_principal">philos</em>, afinidade) e as que possuem aversão são denominadas hidrofóbicas (<em class="italico_principal">hidro</em>, água; <em class="italico_principal">phobos</em>, medo ou rejeição). Um exemplo de composto hidrofílico é o cloreto de sódio (sal de cozinha), e um exemplo de compostos hidrofóbicos são as gorduras.</p>
+			<p class="texto--normal texto_normal">Outra propriedade da água se refere à sua capacidade de absorver e ceder grande quantidade de calor sem que sua temperatura sofra grandes variações. O <strong class="negrito_principal">calor específico</strong> é importante para os seres vivos por evitar variações bruscas na temperatura corporal, que podem ser prejudiciais ao organismo.</p>
+		</div>
+		<div id="_idContainer010" class="pagina">
+			<p class="numeracao_paginas">4</p>
+		</div>
+		<div id="_idContainer013" class="conteudo_pg4">
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/4.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">A tensão superficial é uma propriedade da água que possibilita a formação de uma fina “pele” que, ao entrar em contato com superfícies como folhas das plantas, forma gotas com formato redondo. Esse fato pode ser visto no fenômeno físico conhecido como orvalho.</p>
+			<p class="texto--normal texto_normal">Devido ao seu alto calor específico, a água possui também alto <strong class="negrito_principal">calor de vaporização</strong>, que é a quantidade de calor que deve ser absorvida para que um líquido se torne vapor. Essa propriedade da água pode ser percebida quando transpiramos durante uma atividade física. Nessa situação, a temperatura corporal aumenta e nosso corpo elimina suor, que absorve calor da pele, ajudando a resfriar o corpo. Além das características citadas anteriormente, a molécula de água participa de inúmeras reações químicas. Dentre elas, há reações de hidrólise (que utilizam água como reagente) e reações de síntese por desidratação (que produzem água).</p>
+			<p class="texto--normal texto_normal">Já a <strong class="negrito_principal">tensão superficial</strong> é a propriedade na qual a água forma uma película sobre a superfície de líquidos, o que possibilita a formação das gotas e o pouso de insetos e outros pequenos animais sobre um lago, por exemplo. A tensão superficial da água se deve à <strong class="negrito_principal">coesão</strong> de suas moléculas, que se conectam por ligações de hidrogênio que estão constantemente se fazendo e se desfazendo, o que mantém a fluidez da água em seu estado líquido.</p>
+			<p class="texto--normal texto_normal">É importante ainda mencionar a <strong class="negrito_principal">capilaridade</strong>, propriedade na qual a água sobe por tubos muito finos chamados de <strong class="negrito_principal">capilares</strong>. Isso é possível devido à coesão das moléculas de água, mas também à adesão, que é a interação das moléculas de água com outras moléculas polares. Assim, as moléculas de cima “puxam” umas às outras contra a gravidade. A capilaridade é um dos fatores que contribui para o transporte da seiva das raízes até as folhas nas plantas, já que os vasos condutores são muito finos.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/5.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">A coesão e a adesão das moléculas de água contribuem para a subida da água absorvida pelas raízes até as folhas por meio dos vasos condutores de seiva.</p>
+		</div>
+		<div id="_idContainer014" class="pagina">
+			<p class="numeracao_paginas">5</p>
+		</div>
+		<div id="_idContainer016" class="conteudo_pg5">
+			<p class="titulo--vinheta titulo_vinheta_generica">SAIS MINERAIS</p>
+			<p class="texto--normal texto_normal">Os sais minerais são componentes inorgânicos necessários ao funcionamento das células. Alguns, como o cálcio, o fósforo, o sódio, o cloro, o magnésio e o enxofre, são utilizados em grandes quantidades e chamados de <strong class="negrito_principal">macronutrientes</strong>. Outros, como o ferro, o zinco, o cobre, o flúor e o manganês, são chamados de <strong class="negrito_principal">micronutrientes</strong>. Esses elementos estão presentes nos meios extra e intracelular e representam 1% do total de substâncias contidas nas células.</p>
+			<p class="texto--normal texto_normal">Os sais minerais compõem grande parte da estrutura do corpo dos vertebrados, como o esqueleto e os dentes. Além disso, influenciam processos como a contração muscular e o impulso nervoso. Em geral, os sais minerais &#173;encontram-se dissolvidos em água, logo se apresentam como íons.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/6.png" alt="" /></p>
+		</div>
+		<div id="_idContainer017" class="pagina">
+			<p class="numeracao_paginas">6</p>
+		</div>
+		<div id="_idContainer021" class="conteudo_pg6">
+			<h2 class="titulo--2 titulo_1">Carboidratos</h2>
+			<p class="texto--normal texto_normal">Os carboidratos, glicídios ou açúcares são biomoléculas que funcionam como a principal fonte de energia para os organismos, além de também apresentarem função estrutural nas células. Esse grupo de substâncias pode ser dividido em monossacarídios, dissacarídios, oligossacarídios e polissacarídios.</p>
+			<h3 class="titulo--3 titulo_2">Monossacarídios</h3>
+			<p class="texto--normal texto_normal">Os monossacarídios são carboidratos simples com fórmula geral C<sub class="subscrito">n</sub>(H<sub class="subscrito">2</sub>O)<sub class="subscrito">n</sub>, em que <strong class="negrito_principal">n</strong> varia de 3 a 7. Assim, podem ser trioses, tetroses, pentoses, hexoses ou heptoses, dependendo do valor de <strong class="negrito_principal">n</strong>. </p>
+			<p class="texto--normal texto_normal">Dentre os monossacarídios, destacam-se as pentoses ribose e desoxirribose, que constituem os ácidos nucleicos. A <strong class="negrito_principal">ribose</strong> é encontrada no RNA (ácido ribonucleico) e a <strong class="negrito_principal">desoxirribose</strong> no DNA (ácido desoxirribonucleico). </p>
+			<p class="texto--normal texto_normal">Também são exemplos de monossacarídios a <strong class="negrito_principal">glicose</strong>, a <strong class="negrito_principal">galactose</strong> e a <strong class="negrito_principal">frutose</strong>, que são hexoses importantes por seu valor energético para os organismos, sendo a glicose um dos principais produtos da fotossíntese.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/7.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Molécula de glicose (C<sub class="subscrito">6</sub>H<sub class="subscrito">12</sub>O<sub class="subscrito">6</sub>), um carboidrato monossacarídio. A molécula é composta de átomos de carbono (cor cinza), oxigênio (cor vermelha) e hidrogênio (cor branca).</p>
+			<h3 class="titulo--3 titulo_2">Dissacarídios</h3>
+			<p class="texto--normal texto_normal">Os dissacarídios são formados pela união de duas moléculas de monossacarídios em uma reação de síntese por desidratação, isto é, com perda de água. Os mais conhecidos dissacarídios são a sacarose, a lactose e a maltose. </p>
+			<p class="texto--normal texto_normal">A <strong class="negrito_principal">sacarose</strong> é formada pela união de glicose e frutose e é encontrada, por exemplo, na cana-de-açúcar e na beterraba. Essa molécula é a forma na qual a glicose produzida na fotossíntese é distribuída pelo corpo das plantas.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/8.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Molécula de sacarose (C<sub class="subscrito">12</sub>H<sub class="subscrito">22</sub>O<sub class="subscrito">11</sub>), um exemplo de dissacarídio. A molécula é composta de átomos de carbono (cor cinza), oxigênio (cor vermelha) e hidrogênio (cor branca).</p>
+			<p class="texto--normal texto_normal">Já a <strong class="negrito_principal">maltose</strong> é constituída por duas moléculas de glicose e é obtida pela digestão do amido (um polissacarídio que será estudado mais adiante). </p>
+			<p class="texto--normal texto_normal">A <strong class="negrito_principal">lactose</strong> é constituída por glicose e galactose e está presente no leite, portanto, é uma importante fonte energética para os filhotes dos mamíferos.</p>
+			<p class="texto--normal texto_normal">Os dissacarídios apresentam solubilidade em água, contudo não são absorvidos diretamente pelo corpo. Eles precisam ser digeridos e quebrados em dois monossacarídios por meio de uma reação de hidrólise, que utiliza água como reagente.</p>
+			<h3 class="titulo--3 titulo_2">Oligossacarídios</h3>
+			<p class="texto--normal texto_normal">Os oligossacarídios são carboidratos constituídos de 2 a 10 monossacarídios. Podem ser formados pela ligação de várias moléculas de frutose ou galactose e constituem glicoproteínas e glicolipídios que atuam no reconhecimento entre células. Por exemplo, pessoas de diferentes grupos sanguíneos possuem glicoproteínas com diferentes oligossacarídios na membrana de suas hemácias.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/9.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Corte da membrana plasmática mostrando os oligossacarídios voltados para o lado externo da célula.</p>
+			<h3 class="titulo--3 titulo_2">Polissacarídios</h3>
+			<p class="texto--normal texto_normal">Os polissacarídios são formados pela união de mais de 10 monossacarídios. São exemplos de polissacarídios o amido, o glicogênio, a celulose e a quitina. </p>
+			<p class="texto--normal texto_normal">O <strong class="negrito_principal">amido</strong> é constituído pela união de muitas moléculas de glicose e apresenta cadeias lineares e ramificadas. As cadeias lineares possuem cerca de 1 000 unidades de glicose e as cadeias ramificadas apresentam entre 48 e 60 unidades desse monossacarídio. Trata-se de um polissacarídio de reserva energética presente em raízes (mandioca), sementes (arroz e trigo), tubérculos (batata-inglesa) e em frutos secos, tais como os grãos de milho.</p>
+		</div>
+		<div id="_idContainer022" class="pagina">
+			<p class="numeracao_paginas">7</p>
+		</div>
+		<div id="_idContainer026" class="conteudo_pg7">
+			<p class="texto--normal texto_normal">O <strong class="negrito_principal">glicogênio</strong> é o polissacarídio de reserva de energia produzido por animais e fungos. Nos animais, é encontrado no fígado e na musculatura esquelética. Trata-se de um composto ramificado constituído de moléculas de glicose. </p>
+			<p class="texto--normal texto_normal">A <strong class="negrito_principal">celulose</strong> também é constituída por moléculas de glicose e é um polissacarídio estrutural. Presente na parede celular dos vegetais e também em algas, confere a força mecânica responsável pela sustentação da parede das células vegetais. A maioria dos seres vivos não é capaz de digerir esse polissacarídio. Vacas e cupins, por exemplo, comem alimentos ricos em celulose porque apresentam, em seus sistemas digestórios, microrganismos capazes de digeri-la. As fibras de celulose que não são digeridas auxiliam na formação das fezes e no funcionamento do intestino.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/10.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">A celulose é encontrada na parede celular das células das plantas, como o eucalipto, bastante utilizado na fabricação de papel.</p>
+			<p class="texto--normal texto_normal">Outro polissacarídio estrutural é a <strong class="negrito_principal">quitina</strong>. Essa molécula é encontrada na parede celular dos fungos e no exoesqueleto dos artrópodes, tais como insetos, crustáceos e aracnídeos.</p>
+			<h2 class="titulo--2 titulo_1">Lipídios</h2>
+			<p class="texto--normal texto_normal">Os lipídios incluem as gorduras, os óleos e todas as substâncias que apresentam baixa solubilidade em água e alta solubilidade em solventes hidrofóbicos, como o clorofórmio e o éter. São classificados em glicerídios, ceras, fosfolipídios e esteroides.</p>
+			<p class="texto--normal texto_normal">Muitos lipídios são formados pela união de <strong class="negrito_principal">ácidos graxos</strong>, que são ácidos orgânicos que possuem, na ponta da cadeia carbônica, o grupo carboxila, formado por carbono, oxigênio e hidrogênio. A cadeia carbônica pode ser saturada, quando apresenta apenas ligações simples entre os carbonos, ou insaturada, quando apresenta pelo menos uma ligação dupla entre carbonos.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/11.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Exemplos de ácidos graxos: ácido palmítico (ácido graxo saturado), do óleo de palma (A) e ácido oleico (ácido graxo insaturado), do azeite de oliva (B). As moléculas são compostas de átomos de carbono (cor cinza), oxigênio (cor vermelha) e hidrogênio (cor branca).</p>
+			<h3 class="titulo--3 titulo_2">Glicerídios</h3>
+			<p class="texto--normal texto_normal">Os glicerídios são lipídios formados pela união entre o glicerol, um álcool e moléculas de ácidos graxos. Dependendo do número de ácidos graxos presentes, fala-se em mono, di ou triglicerídios. As gorduras e os óleos são exemplos de triglicerídios. </p>
+			<p class="texto--normal texto_normal">Nos vegetais, os glicerídios são encontrados principalmente nas sementes. Já nos animais, localizam-se, principalmente, dentro dos adipócitos, células do tecido adiposo responsáveis pelo armazenamento de gorduras. Esse tecido constitui uma importante reserva energética e também atua no isolamento térmico do corpo, ou seja, na manutenção da temperatura do organismo.</p>
+			<p class="texto--normal texto_normal">Os ácidos graxos saturados são encontrados nas gorduras animais e em certas plantas. Já os ácidos graxos insaturados estão presentes na maioria dos óleos vegetais e também em peixes de água fria.</p>
+			<p class="texto--normal texto_normal">A seguir, é possível observar um exemplo de reação que origina um triglicerídio.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/12.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Formação de um triglicerídio.</p>
+			<p class="texto--normal texto_normal">Perceba que, na reação entre três moléculas de ácido palmítico e o glicerol, é formado um triglicerídio. Para que isso aconteça, cada ácido cede dois átomos, sendo um de oxigênio e um de hidrogênio, enquanto o glicerol libera três átomos de hidrogênio. Com isso, são formadas três moléculas de água (H<sub class="subscrito">2</sub>O), gerando uma desidratação do triglicerídio formado.</p>
+		</div>
+		<div id="_idContainer027" class="pagina">
+			<p class="numeracao_paginas">8</p>
+		</div>
+		<div id="_idContainer032" class="conteudo_pg8">
+			<h3 class="titulo--3 titulo_2">Ceras</h3>
+			<p class="texto--normal texto_normal">As ceras são uma classe de lipídios insolúveis em água. Esses compostos são encontrados, por exemplo, nas colmeias de abelhas e, também, em aves e mamíferos, atuando na impermeabilização de penas e pelos. Nos vegetais, atuam como impermeabilizantes nas folhas, evitando a perda de água por evapotranspiração.</p>
+			<h3 class="titulo--3 titulo_2">Fosfolipídios</h3>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/13.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Molécula de fosfolipídio.</p>
+			<p class="texto--normal texto_normal">Os fosfolipídios são os principais componentes da membrana plasmática, que será estudada no próximo capítulo. Um fosfolipídio contém uma molécula de glicerol ligada a um ácido fosfórico e a duas cadeias de ácidos graxos, uma saturada e outra insaturada. As moléculas de fosfolipídios são consideradas anfifílicas, pois a porção contendo ácido fosfórico e glicerol é hidrofílica e a região com os dois ácidos graxos é lipofílica (que possui afinidade por lipídios) e, consequentemente, hidrofóbica. Devido a essa característica, a membrana plasmática é formada por uma bicamada lipídica, com as porções hidrofílicas voltadas para dentro e para fora da célula.</p>
+			<h3 class="titulo--3 titulo_2">Esteroides</h3>
+			<p class="texto--normal texto_normal">Os esteroides são uma classe de lipídios que contêm um conjunto de anéis de carbono em comum. Um dos esteroides mais conhecidos é o <strong class="negrito_principal">colesterol</strong>, presente na membrana plasmática das células animais. Além disso, ele é a base para a síntese de vitamina D, dos sais biliares e de muitos hormônios. O colesterol é naturalmente produzido nas células do corpo e também pode ser obtido pelo consumo de alimentos de origem animal. Apesar de sua importância, ingerir colesterol em excesso pode ser prejudicial à saúde.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/14.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Molécula de colesterol.</p>
+			<p class="titulo--box titulo_box_texto_1">SAIBA MAIS</p>
+			<div>
+				<div id="_idContainer031" class="box--texto box_texto_1">
+					<p class="texto--titulo titulo_texto">“Colesterol bom” e “colesterol ruim”</p>
+					<p class="texto--normal box_texto">O colesterol é transportado no sangue humano por meio de lipoproteínas, isto é, proteínas que transportam lipídios em meios líquidos e que podem ser de alta densidade (HDL, do inglês <em class="italico_principal">High-density lipoprotein</em>) ou de baixa densidade (LDL, do inglês <em class="italico_principal">Low-density lipoprotein</em>). </p>
+					<p class="texto--normal box_texto">O LDL leva colesterol do sangue para os tecidos. Entretanto, quando em excesso, essa lipoproteína se deposita nas paredes dos vasos sanguíneos formando placas de gordura, processo chamado de <strong class="negrito_principal">aterosclerose</strong> e que pode levar ao bloqueio da circulação do sangue em uma dada região do corpo. Por essa razão, o LDL é conhecido como “colesterol ruim”.</p>
+					<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/15.png" alt="" /></p>
+					<p class="texto--imagem-legenda imagem_legenda">A interrupção da circulação sanguínea causada pela aterosclerose pode causar a morte das células que eram irrigadas pelo vaso afetado.</p>
+					<p class="texto--normal box_texto">O HDL é conhecido como “colesterol bom”, pois retira o excesso de colesterol das artérias e o envia para as células do fígado, onde será decomposto e formará os sais biliares.</p>
+					<p class="texto--normal box_texto">Ao se alimentar, é preciso dar atenção para o tipo de gordura que se está consumindo. As gorduras insaturadas favorecem a redução do LDL, o “colesterol ruim”. As gorduras saturadas aumentam os níveis dessa lipoproteína.</p>
+				</div>
+			</div>
+		</div>
+		<div id="_idContainer033" class="pagina">
+			<p class="numeracao_paginas">9</p>
+		</div>
+		<div id="_idContainer037" class="conteudo_pg9">
+			<h2 class="titulo--2 titulo_1">Proteínas</h2>
+			<p class="texto--normal texto_normal">Depois da água, as proteínas são as substâncias mais abundantes nos seres vivos. Suas moléculas estão presentes na membrana celular e nos meios extra e intracelular. Atuam no transporte de substâncias para dentro ou para fora da membrana celular, na estruturação das células e como enzimas, catalisando as reações químicas que ocorrem nos seres vivos. Além disso, algumas proteínas realizam a adesão entre as células, participam da defesa do corpo contra agentes invasores (anticorpos) e agem na construção dos tecidos do organismo.</p>
+			<p class="texto--normal texto_normal">As proteínas são formadas por unidades menores denominadas aminoácidos. Um <strong class="negrito_principal">aminoácido</strong> é uma molécula que apresenta um carbono ligado a um grupo carboxila (–COOH), a um grupo amina (–NH<sub class="subscrito">2</sub>), a um hidrogênio e ao radical (–R), que varia de um aminoácido para o outro.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/16.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Representação da estrutura geral dos aminoácidos. A molécula é composta de átomos de carbono (cor preta), oxigênio (cor vermelha), hidrogênio (cor branca) e nitrogênio (cor azul).</p>
+			<p class="texto--normal texto_normal">Na natureza, há mais de 140 aminoácidos, contudo apenas 20 formam as proteínas presentes nos seres vivos. As plantas apresentam a capacidade de produzir todos os aminoácidos que necessitam. Já os seres heterótrofos não produzem todos eles, de modo que alguns precisam ser obtidos por meio da dieta. Os aminoácidos que devem ser obrigatoriamente obtidos da dieta são denominados <strong class="negrito_principal">essenciais</strong>. Os demais aminoácidos são ditos <strong class="negrito_principal">naturais</strong>, uma vez que os seres vivos são capazes de produzi-los a partir de outras substâncias.</p>
+			<p class="titulo--box titulo_box_texto_2">TOME NOTA</p>
+			<div>
+				<div id="_idContainer035" class="box--texto box_texto_2">
+					<p class="texto--normal box_texto">A tabela mostra os 20 aminoácidos que formam as proteínas dos organismos.</p>
+					<table id="table001" class="tabela--horizontal _idGenTablePara-1">
+						<colgroup>
+							<col />
+						</colgroup>
+						<thead>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal topo_tabela_1">
+									<p class="topo_tabela_1">Aminoácidos essenciais</p>
+								</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Arginina (Arg)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Fenilalanina (Phe)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Histidina (His)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Isoleucina (Ileu)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Leucina (Leu)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Lisina (Lys)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Metionina (Met)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Treonina (Thr)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Triptofano (Trp)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Valina (Val)</p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table id="table002" class="tabela--horizontal _idGenTablePara-1">
+						<colgroup>
+							<col />
+						</colgroup>
+						<thead>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal topo_tabela_1">
+									<p class="topo_tabela_1">Aminoácidos naturais</p>
+								</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Alanina (Ala)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Asparagina (Asn)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Aspartato (Asp)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Cisteína (Cys)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Glicina (Gly)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Glutamato (Glu)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Glutamina (Gln)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Prolina (Pro)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Serina (Ser)</p>
+								</td>
+							</tr>
+							<tr class="tabela--horizontal">
+								<td class="tabela--horizontal corpo_tabela">
+									<p class="corpo_tabela">Tirosina (Tyr)</p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+			<p class="texto--normal texto_normal">A união entre dois aminoácidos se dá por meio da <strong class="negrito_principal">ligação peptídica</strong>, que envolve a junção do grupo carboxila de um aminoácido com o grupo amina de outro. Para cada ligação peptídica formada há liberação de uma molécula de água, o que caracteriza a reação como uma reação de síntese por desidratação. A ligação de vários aminoácidos forma uma cadeia polipeptídica.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/17.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Esquema da ligação peptídica entre dois aminoácidos por meio da reação de síntese por desidratação.</p>
+		</div>
+		<div id="_idContainer038" class="pagina">
+			<p class="numeracao_paginas">10</p>
+		</div>
+		<div id="_idContainer041" class="conteudo_pg10">
+			<p class="texto--normal texto_normal">Na organização das moléculas de proteínas, são observados quatro níveis de estrutura: primária, secundária, terciária e quaternária. </p>
+			<p class="texto--normal texto_normal">A <strong class="negrito_principal">estrutura primária</strong> consiste na sequência linear de aminoácidos que formam a cadeia polipeptídica da proteína. Quanto a essa estrutura, as proteínas diferem no número de aminoácidos , na sequência e no tipo deles. A estrutura primária determina quais funções cada proteína desempenha no organismo.</p>
+			<p class="texto--normal texto_normal">A <strong class="negrito_principal">estrutura secundária</strong> é o arranjo resultante da interação de aminoácidos não vizinhos por ligações de hidrogênio. Há dois tipos de estrutura secundária: uma denominada alfa-hélice, e outra, beta-pregueada. A estrutura em hélice é uma espiral, e a beta-pregueada é como uma folha de papel dobrada em ziguezague.</p>
+			<p class="texto--normal texto_normal">A <strong class="negrito_principal">estrutura terciária</strong> ocorre quando a estrutura secundária se dobra e forma curvas sobre si mesma. Tais curvas são resultado da atração e repulsão entre aminoácidos diferentes da cadeia polipeptídica.</p>
+			<p class="texto--normal texto_normal">A <strong class="negrito_principal">estrutura quaternária</strong> é obtida por meio da união de duas ou mais cadeias polipeptídicas. Existem várias proteínas que apresentam estrutura quaternária, dentre as quais se destaca a molécula de hemoglobina, que transporta oxigênio nas hemácias. Nessa molécula, existem quatro cadeias polipeptídicas, sendo duas cadeias alfa e duas cadeias beta. Em cada cadeia, existe um núcleo heme que contém ferro, ao qual se liga a molécula de oxigênio.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/18.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Representação dos níveis de estrutura das proteínas.</p>
+			<p class="texto--normal texto_normal">Em certas condições, pode ocorrer rompimento das ligações que mantêm a forma da proteína. Esse evento é denominado <strong class="negrito_principal">desnaturação</strong> e consiste na alteração das estruturas quaternária, terciária e secundária da proteína, sem afetar a sequência de aminoácidos que determina a estrutura primária. A desnaturação de uma proteína resulta em perda de suas funções, pois ela depende da forma para executar suas atividades. Os fatores que determinam a desnaturação proteica incluem o calor excessivo, a variação de pH (indicador de acidez, neutralidade ou basicidade de uma substância) e a quantidade de sais e outras substâncias.</p>
+			<h3 class="titulo--3 titulo_2">Enzimas</h3>
+			<p class="texto--normal texto_normal">Dentre as funções exercidas pelas proteínas, destaca-se a atividade catalítica, ou seja, de aumento da velocidade das reações químicas. Essa atividade é executada por proteínas denominadas enzimas. </p>
+			<p class="texto--normal texto_normal">Toda reação química demanda certa quantidade de energia, chamada <strong class="negrito_principal">energia de ativação</strong>, para ocorrer. Essa quantidade varia para cada reação e pode ser elevada. As enzimas fazem com que a quantidade de energia necessária seja menor e, consequentemente, com que a reação aconteça mais rápido.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/19.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Gráfico da quantidade de energia necessária para se iniciar uma reação sem e com a participação de uma enzima.</p>
+			<p class="texto--normal box_texto">Caso as enzimas não participassem das reações químicas, a temperatura corporal teria que ser muito alta para que houvesse energia disponível para que essas reações ocorressem com velocidade suficiente para manter a vida. Com isso, as proteínas do organismo desnaturariam.</p>
+		</div>
+		<div id="_idContainer042" class="pagina">
+			<p class="numeracao_paginas">11</p>
+		</div>
+		<div id="_idContainer045" class="conteudo_pg11">
+			<p class="texto--normal texto_normal">Cada enzima atua em uma reação específica e se liga a um reagente próprio, chamado <strong class="negrito_principal">substrato</strong>. Por exemplo, o substrato da enzima lactase é o carboidrato lactose, que é degradado em glicose e galactose. Já a maltase atua na quebra da maltose, resultando em duas moléculas de glicose. Assim, uma enzima que atua em determinada reação não interfere em outra, portanto, cada enzima é específica para seu substrato devido ao encaixe entre os dois. Essa explicação para a forma como enzima e substrato se ligam é chamada <strong class="negrito_principal">modelo</strong> <strong class="negrito_principal">chave-fechadura</strong>.</p>
+			<p class="texto--normal texto_normal">As enzimas se ligam ao substrato e formam um complexo enzima-substrato. Ao final da reação, haverá um produto e a enzima, que permanece inalterada. Portanto, a enzima não é consumida durante a reação que ela catalisa e continua disponível para participar de outras reações.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/20.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Representação da degradação do substrato maltose em duas moléculas de glicose pela enzima maltase.</p>
+			<p class="texto--normal texto_normal">Algumas enzimas apresentam uma porção proteica e uma porção não proteica, que é chamada <strong class="negrito_principal">cofator</strong>, se for de natureza inorgânica (como os sais minerais, a exemplo do zinco), ou <strong class="negrito_principal">coenzima</strong>, se for de natureza orgânica (como uma vitamina). </p>
+			<p class="texto--normal texto_normal">Em uma enzima, <strong class="negrito">o centro ativo</strong> é o local em que o substrato se encaixa para ser convertido em produto. A ligação entre o substrato e a enzima depende da forma do centro ativo e se ele encontra-se disponível para ligar-se ao substrato. Assim, se houver uma substância que ocupe o centro ativo, a atividade da enzima será inibida. Essa substância é denominada inibidor, e o evento, inibição competitiva. Há também substâncias que se ligam a outra região da molécula da enzima e reduzem ou anulam a capacidade catalítica da enzima. Nesse caso, trata-se de uma inibição não competitiva.</p>
+			<h4 class="titulo--4 titulo_3">Fatores que afetam a atividade enzimática</h4>
+			<p class="texto--normal texto_normal">A atividade de uma enzima é afetada pela presença de agentes inibidores e também por outros fatores que incluem a <strong class="negrito_principal">temperatura</strong>, o <strong class="negrito_principal">pH</strong> e a <strong class="negrito_principal">quantidade de substrato</strong>. O aumento da temperatura causa o aumento da velocidade de uma reação química. Contudo, a velocidade das reações catalisadas por enzimas aumenta até um certo limite. A partir de determinada temperatura, a velocidade da reação diminui, pois as enzimas desnaturam devido ao calor e perdem sua função. </p>
+			<p class="texto--normal texto_normal">A alteração do pH também desnatura a enzima, afetando o seu funcionamento. Isso ocorre porque cada enzima apresenta uma condição ideal de pH (pH ótimo). Por exemplo, a enzima pepsina, presente no suco gástrico, atua com melhor desempenho em pH = 2,0 (ácido), enquanto a enzima amilase salivar, que degrada o amido, atua em pH = 7,0 (neutro). Outras enzimas, tais como a tripsina, atuam em pH = 8,0 (alcalino).</p>
+			<p class="texto--normal texto_normal">Outro fator que influencia a atividade enzimática é a quantidade de substrato. Aumentando essa quantidade, aumenta-se a velocidade da reação enzimática. Contudo, esse aumento ocorre até alcançar o ponto de saturação, em que todas as enzimas estão envolvidas na transformação do substrato. A partir do ponto de saturação, a velocidade passa a ser constante, e o aumento na quantidade do substrato não determina aumento na velocidade da reação.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/21.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Gráfico da variação da atividade enzimática da pepsina e da amilase de acordo com os valores de pH. Os picos de cada curva indicam o pH ótimo de cada enzima.</p>
+		</div>
+		<div id="_idContainer046" class="pagina">
+			<p class="numeracao_paginas">12</p>
+		</div>
+		<div id="_idContainer049" class="conteudo_pg12">
+			<h2 class="titulo--2 titulo_1">Ácidos nucleicos</h2>
+			<p class="texto--normal texto_normal">Os ácidos nucleicos são moléculas que contêm as informações genéticas de um ser vivo, isto é, informações a respeito de suas características que podem ser transmitidas de uma geração à outra (hereditariedade). Além disso os ácidos nucleicos participam da síntese de proteínas de um organismo, como veremos mais adiante.</p>
+			<p class="texto--normal texto_normal">Existem dois tipos de ácidos nucleicos: o <strong class="negrito_principal">DNA</strong> (ácido desoxirribonucleico) e o <strong class="negrito_principal">RNA</strong> (ácido ribonucleico). Ambos são constituídos de <strong class="negrito_principal">nucleotídios</strong>, que são unidades formadas por um grupo fosfato, uma pentose (carboidrato) e uma base nitrogenada. Os nucleotídios unem-se em uma cadeia por meio de ligações que envolvem o grupo fosfato de um nucleotídio e a pentose do nucleotídio seguinte. Quando ocorre o estabelecimento dessa ligação, há liberação de uma molécula de água.</p>
+			<p class="texto--normal texto_normal">Quanto à forma estrutural da molécula, o DNA apresenta duas cadeias de nucleotídios (fita dupla) unidas entre si e formando uma estrutura em <strong class="negrito_principal">dupla-hélice</strong>, enquanto o RNA possui apenas uma cadeia de nucleotídios (fita simples).</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/22.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Representação das moléculas de RNA e DNA com detalhe de um trecho do DNA e de um nucleotídio.</p>
+			<p class="texto--normal texto_normal">O DNA e o RNA também podem ser diferenciados um do outro pelo tipo de pentose. A pentose dos nucleotídios do DNA é denominada desoxirribose e possui uma hidroxila a menos que a do RNA, denominada ribose. </p>
+			<p class="texto--normal texto_normal">Outra diferença diz respeito às bases nitrogenadas, que podem ser de cinco tipos: adenina (A), guanina (G), citosina (C), timina (T) e uracila (U). A três primeiras bases são encontradas em ambos os ácidos nucleicos, mas a timina é exclusiva do DNA e a uracila, do RNA.</p>
+			<h3 class="titulo--3 titulo_2">DNA </h3>
+			<p class="texto--normal texto_normal">O DNA é o material genético da maioria dos seres vivos conhecidos. Nos seres eucariontes, ele se encontra dentro do núcleo, enquanto nos seres procariontes, como as bactérias, ele está disperso no citoplasma da célula.</p>
+			<p class="texto--normal texto_normal">A estrutura em dupla-hélice do DNA foi descrita em 1953 por James Watson e Francis Crick, que se basearam em imagens feitas pela cientista britânica Rosalind Franklin em seus estudos de difração de raios X.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/23.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Rosalind Franklin, cientista que teve grande importância na elaboração do modelo tridimensional do DNA.</p>
+			<p class="texto--normal texto_normal">Tal estrutura helicoidal do DNA se deve à maneira como os nucleotídios estão dispostos, com as pentoses voltadas para o lado externo da molécula e as bases nitrogenadas para o lado interno. Além disso, a adenina sempre se liga com a timina (A-T) e a citosina com a guanina (C-G) por meio de ligações de hidrogênio. A ordem na qual essas bases nitrogenadas estão dispostas (ou seja, a sequência de bases) determina quais proteínas serão produzidas pelo organismo.</p>
+		</div>
+		<div id="_idContainer050" class="pagina">
+			<p class="numeracao_paginas">13</p>
+		</div>
+		<div id="_idContainer053" class="conteudo_pg13">
+			<h3 class="titulo--3 titulo_2">RNA</h3>
+			<p class="texto--normal texto_normal">O RNA é o material genético de alguns organismos, como os retrovírus (a exemplo do vírus HIV, causador da aids). Ele é encontrado também no interior das células de todos os seres vivos sob três tipos: RNA mensageiro, RNA transportador e RNA ribossômico. Todos eles estão envolvidos, junto com o DNA, na síntese de proteínas.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/24.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Representação esquemática da formação de uma molécula de RNAm a partir de uma fita de DNA.</p>
+			<p class="texto--normal texto_normal">O <strong class="negrito_principal">RNA mensageiro</strong> (RNAm) carrega a informação do DNA que codifica a proteína para o local onde ela será sintetizada na célula. Essa informação genética é transportada na forma de <strong class="negrito_principal">códons</strong>, que consistem em sequências de três nucleotídios geradas a partir de uma das fitas de DNA. Cada códon corresponde a um dos aminoácidos que irá fazer parte da proteína a ser sintetizada.</p>
+			<p class="texto--normal texto_normal">O <strong class="negrito_principal">RNA transportador</strong> (RNAt) carrega os aminoácidos que irão formar as proteínas sintetizadas na célula. Em uma de suas extremidades, encontra-se uma sequência de bases nitrogenadas que irá se ligar a um dos vinte aminoácidos. Na outra, há uma sequência de três bases, chamada <strong class="negrito_principal">anticódon</strong>, responsável por reconhecer o códon correspondente ao RNAm.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/25.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Representação esquemática da estrutura de um RNAt.</p>
+			<p class="texto--normal texto_normal">O <strong class="negrito_principal">RNA ribossômico</strong> (RNAr) constitui os ribossomos, organelas onde ocorre a síntese de proteínas. É nos ribossomos que os aminoácidos trazidos pelos RNAt serão ligados por meio de ligações peptídicas na sequência determinada pelo RNAm.</p>
+		</div>
+		<div id="_idContainer054" class="pagina">
+			<p class="numeracao_paginas">14</p>
+		</div>
+		<div id="_idContainer058" class="conteudo_pg14">
+			<h4 class="titulo--4 titulo_3">Síntese de proteínas </h4>
+			<p class="texto--normal texto_normal">Para a síntese de uma proteína, a informação genética contida no DNA precisa ser passada para o RNA e deste para a proteína.</p>
+			<p class="texto--normal texto_normal">A síntese de uma molécula de RNAm a partir de uma fita de DNA é chamada de <strong class="negrito_principal">transcrição</strong>, processo que ocorre dentro do núcleo de células eucariontes ou no citoplasma das células procariontes. Na transcrição, a fita dupla de DNA se abre e uma delas serve de molde para a síntese de uma molécula de RNAm. A adição de nucleotídios para compor o RNA depende da sequência de nucleotídios do DNA. Assim, uma sequência AATCGA no DNA irá virar uma sequência UUAGCU no RNAm, por exemplo.</p>
+			<p class="titulo--box titulo_box_texto_2">TOME NOTA</p>
+			<div>
+				<div id="_idContainer055" class="box--texto box_texto_2">
+					<p class="texto--normal box_texto_coluna_falsa">Na transcrição do DNA, a adição de nucleotídios para compor o RNA obedece ao seguinte padrão de correspondência de bases nitrogenadas:</p>
+					<p class="ancorado">DNA <span class="symbol">→</span> RNA</p>
+					<p class="ancorado">A <span class="symbol">→</span> U</p>
+					<p class="ancorado">T <span class="symbol">→</span> A</p>
+					<p class="ancorado">C <span class="symbol">→</span> G</p>
+					<p class="ancorado">G <span class="symbol">→</span> C</p>
+				</div>
+			</div>
+			<p class="texto--normal texto_normal">Já a síntese da proteína a partir de uma molécula de RNAm é denominada <strong class="negrito_principal">tradução</strong>, processo que ocorre no interior dos ribossomos, organelas presentes em todas as células e que serão estudadas com mais detalhes nos próximos capítulos. Na tradução, a fita de RNAm corre em um ribossomo, que irá efetuando a ligação peptídica dos aminoácidos trazidos pelo RNAt na sequência determinada pelos códons do RNAm.</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/26.png" alt="" /></p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/27.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Representação da síntese proteica em uma célula eucariótica.</p>
+		</div>
+		<div id="_idContainer059" class="pagina">
+			<p class="numeracao_paginas">15</p>
+		</div>
+		<div id="_idContainer061" class="conteudo_pg15">
+			<h2 class="titulo--2 titulo_1">Código genético</h2>
+			<p class="texto--normal texto_normal">A sequência de aminoácidos que compõem uma proteína é determinada pelos códons do RNA mensageiro. Como há quatro bases nitrogenadas possíveis no RNA (A, U, C e G), pode-se concluir que há 64 códons possíveis. Porém, há apenas 20 aminoácidos nos seres vivos, o que significa que um aminoácido é codificado por mais de um códon. Assim, fala-se em código genético para a relação de códons possíveis para cada aminoácido. </p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/28.png" alt="" /></p>
+			<p class="texto--imagem-legenda imagem_legenda">Código genético dos aminoácidos codificados pelos códons de RNA.</p>
+			<p class="texto--normal texto_normal">O código genético é universal, isto é, é igual para todos os seres vivos conhecidos. Ele também é dito degenerado, pois não é possível determinar a sequência de RNAm a partir da sequência de aminoácidos. </p>
+			<p class="texto--normal texto_normal">A vantagem de um código genético degenerado é que erros no processo de transcrição podem não alterar a proteína formada. Por exemplo, se a sequência de bases AAA do DNA for transcrita em UUC, e não em UUU, como previsto, ainda assim o aminoácido codificado será a fenilalanina.</p>
+			<h2 class="titulo--2 titulo_1">Vitaminas</h2>
+			<p class="texto--normal texto_normal">As vitaminas são micronutrientes essenciais à vida, pois controlam várias atividades da célula, isto é, atuam como reguladoras. Esses compostos são produzidos pelos vegetais e por alguns microrganismos. Em geral, os animais não são capazes de sintetizá-las, portanto devem obtê-las na dieta.</p>
+			<p class="texto--normal texto_normal">Essas moléculas são divididas de acordo com a solubilidade. As vitaminas lipossolúveis se dissolvem em lipídios e são representadas pelas vitaminas A, D, E e K. Por outro lado, algumas vitaminas se dissolvem em água, por isso são chamadas de hidrossolúveis, como a vitamina C e as do complexo B.</p>
+		</div>
+		<div id="_idContainer062" class="pagina">
+			<p class="numeracao_paginas">16</p>
+		</div>
+		<div id="_idContainer064" class="conteudo_pg16">
+			<p class="titulo--vinheta titulo_vinheta_generica">PRINCIPAIS VITAMINAS</p>
+			<p class="ancorado"><img src="2023_1S_BIO1_L1_C1-web-resources/image/29.png" alt="" /></p>
+		</div>
+		<div id="_idContainer065" class="pagina">
+			<p class="numeracao_paginas">17</p>
+		</div>
+		<div id="_idContainer067" class="conteudo_pg17">
+			<p class="titulo--box titulo_box_texto_2">ESTE CAPÍTULO ABORDOU</p>
+			<div>
+				<div id="_idContainer066" class="box--texto box_texto_2">
+					<ul>
+						<li class="lista-nao-ordenada--n2 marcador_box">Os seres vivos são formados por compostos inorgânicos e orgânicos. Os inorgânicos são a água e os sais minerais, e os orgânicos, os carboidratos, os lipídios, as proteínas, os ácidos nucleicos e as vitaminas.</li>
+						<li class="lista-nao-ordenada--n2 marcador_box">A água é o solvente da maioria das reações químicas que ocorrem nos organismos, participa de diversas dessas reações e é o agente de transporte de inúmeras substâncias. </li>
+						<li class="lista-nao-ordenada--n2 marcador_box">Os carboidratos são fonte de energia para as células, além de apresentarem função estrutural. </li>
+						<li class="lista-nao-ordenada--n2 marcador_box">Os lipídios são importantes isolantes térmicos, impermeabilizantes, precursores de vitaminas e hormônios e componentes da membrana celular.</li>
+						<li class="lista-nao-ordenada--n2 marcador_box">As proteínas atuam no transporte de substâncias, na defesa do corpo e como catalisadoras em reações químicas.</li>
+						<li class="lista-nao-ordenada--n2 marcador_box">Os ácidos nucleicos são responsáveis pelo armazenamento das informações genéticas dos seres vivos.</li>
+						<li class="lista-nao-ordenada--n2 marcador_box">As vitaminas são reguladores celulares. Algumas delas necessitam ser adquiridas na dieta.</li>
+					</ul>
+				</div>
+			</div>
+			<p class="titulo--atividade titulo_atividades_para_sala">ATIVIDADES PARA SALA</p>
+			<ol>
+				<li class="lista-ordenada--atividade questao questao_sala">(UFSC-Adaptada) A água é a substância mais abundante na constituição dos mamíferos. É encontrada nos compartimentos extracelulares (líquido intersticial), intracelulares (no citoplasma) e transcelulares (dentro de órgãos como a bexiga e o estômago). Sobre a água e sua presença nos mamíferos, assinale <strong class="negrito_principal">V</strong> para verdadeiro e <strong class="negrito_principal">F</strong> para falso.<p class="texto--alternativa-parenteses alternativa_parenteses">A quantidade em que é encontrada nos organismos é invariável de espécie para espécie.</p><p class="texto--alternativa-parenteses alternativa_parenteses">Com passar dos anos, tende a aumentar seu percentual em um determinado tecido. </p><p class="texto--alternativa-parenteses alternativa_parenteses">É importante fator de regulação térmica dos organismos. </p><p class="texto--alternativa-parenteses alternativa_parenteses">Em tecidos metabolicamente ativos, é inexistente. </p><p class="texto--alternativa-parenteses alternativa_parenteses">Participa da constituição dos fluidos orgânicos, que transportam substâncias dissolvidas por todo o corpo. </p><p class="texto--alternativa-parenteses alternativa_parenteses">Constitui meio dispersante para facilitar a realização das reações químicas.</p></li>
+				<li class="lista-ordenada--atividade questao questao_sala">(UESPI-Adaptada) Os sais minerais são essenciais em uma alimentação saudável, pois exercem várias funções reguladoras no corpo humano. Sobre esse assunto, faça a correspondência.
+					<p class="texto--normal questao_sem_numero">( 1 ) Ferro</p>
+					<p class="texto--normal questao_sem_numero">( 2 ) Sódio</p>
+					<p class="texto--normal questao_sem_numero">( 3 ) Cálcio</p>
+					<p class="texto--normal questao_sem_numero">( 4 ) Fósforo</p>
+					<p class="texto--normal questao_sem_numero">( 5 ) Potássio</p>
+					<p class="texto--alternativa-parenteses alternativa_parenteses">Regulação da quantidade de água dentro das células.</p><p class="texto--alternativa-parenteses alternativa_parenteses">Essencial à coagulação sanguínea e à constituição dos ossos.</p><p class="texto--alternativa-parenteses alternativa_parenteses">Componente da molécula que acumula energia nas células.</p><p class="texto--alternativa-parenteses alternativa_parenteses">Componente da hemoglobina e das enzimas respiratórias.</p><p class="texto--alternativa-parenteses alternativa_parenteses">Contração muscular e condução de impulsos nervosos.</p>
+				<p class="texto--normal questao_sem_numero">A sequência correta é</p>
+				<ol>
+					<li class="lista-ordenada--alfabeto item_com_letra_colunado">2, 3, 4, 1, 5.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra_colunado">3, 2, 4, 5, 1.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra_colunado">5, 1, 3, 2, 4.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra_colunado">1, 4, 3, 5, 2.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra_colunado">2, 4, 3, 5, 1.</li>
+				</ol></li>
+				<li class="lista-ordenada--atividade questao questao_sala">(UFPeL-Adaptada) Durante muito tempo acreditou-se que os carboidratos tinham funções apenas energéticas para os organismos. O avanço do estudo desses compostos, porém, permitiu descobrir outros eventos biológicos relacionados aos carboidratos.
+				<p class="texto--referencia texto_referencia"><em class="italico">Ciência Hoje</em>, v. 39, 2006. (adaptado)</p>
+				<p class="texto--normal questao_sem_numero">Com base no texto e em seus conhecimentos, analise as afirmações e assinale a alternativa correta.</p>
+				<ol>
+					<li class="lista-ordenada--romano item_romano">Os carboidratos participam da estrutura dos ácidos nucleicos.</li>
+					<li class="lista-ordenada--romano item_romano">Os triglicerídios, carboidratos importantes como reserva energética, são formados por carbono, hidrogênio e oxigênio.</li>
+					<li class="lista-ordenada--romano item_romano">Tanto a quitina, que forma a carapaça dos artrópodes, quanto a celulose, que participa da formação da parede celular, são tipos de carboidratos.</li>
+					<li class="lista-ordenada--romano item_romano">O amido, encontrado nas plantas, e o glicogênio, encontrado nos fungos e animais, são exemplos de carboidratos e têm como função a reserva de energia.</li>
+				</ol>
+				<ol>
+					<li class="lista-ordenada--alfabeto item_com_letra">Todas são corretas.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">Somente I, II e III são corretas.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">Somente I, III e IV são corretas.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">Somente II, III e IV são corretas.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">Somente III e IV são corretas.</li>
+				</ol></li>
+				<li class="lista-ordenada--atividade questao questao_sala">(PUC) As enzimas são catalisadores orgânicos e atuam na ativação das reações biológicas.
+				<p class="texto--normal questao_sem_numero">Em relação às enzimas, podemos afirmar que</p>
+				<ol>
+					<li class="lista-ordenada--alfabeto item_com_letra">sendo proteínas, por mudanças de pH, podem perder seu poder catalítico ao se desnaturarem.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">atuam em qualquer temperatura, pois sua ação catalítica independe de sua estrutura espacial.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">seu poder catalítico resulta da capacidade de aumentar a energia de ativação das reações.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">são catalisadores eficientes a qualquer substrato.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">não podem ser reutilizadas, pois reagem com o substrato, tornando-se parte do produto.</li>
+				</ol></li>
+			</ol>
+		</div>
+		<div id="_idContainer068" class="pagina">
+			<p class="numeracao_paginas">18</p>
+		</div>
+		<div id="_idContainer069" class="conteudo_pg18">
+			<ol start="5">
+				<li class="lista-ordenada--atividade questao questao_sala">(FGV-SP) Um grupo de pesquisadores constatou os seguintes sintomas de avitaminose em diferentes populações da América do Sul: escorbuto, raquitismo e cegueira noturna.
+				<p class="texto--normal questao_sem_numero">Para solucionar essa situação, propuseram fornecer as seguintes vitaminas, respectivamente:</p>
+				<ol>
+					<li class="lista-ordenada--alfabeto item_com_letra">C, D, E.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">C, D, A.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">E, B, A.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">A, B, E.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">C, B, A.</li>
+				</ol></li>
+			</ol>
+			<p class="titulo--atividade titulo_atividades_propostas">ATIVIDADES PROPOSTAS</p>
+			<ol>
+				<li class="lista-ordenada--atividade questao questao_proposta">(UEPA-Adaptada) O surgimento e a manutenção da vida, no nosso planeta, estão associados à <strong class="negrito_principal">água</strong>, que é a substância mais abundante dentro e fora do corpo dos seres vivos. Entretanto, segundo dados fornecidos pela Associação Brasileira de Entidades do Meio Ambiente (Abema), 80% dos esgotos do país não recebem nenhum tipo de tratamento e são despejados diretamente em rios, mares, lagos e mananciais, contaminando a água aí existente.
+				<p class="texto--referencia texto_referencia">Disponível em: http://www.colegioweb.com.br/biologia/constituicao-da-agua.html. Acesso em: 5 set. 2011. (adaptado)</p>
+				<p class="texto--normal questao_sem_numero">Considerando as funções exercidas nos seres vivos pela substância em destaque no texto, analise as afirmativas a seguir.</p>
+				<ol>
+					<li class="lista-ordenada--romano item_romano">Facilita o transporte das demais substâncias no organismo.</li>
+					<li class="lista-ordenada--romano item_romano">É o meio no qual ocorrem as reações químicas do organismo.</li>
+					<li class="lista-ordenada--romano item_romano">Dissolve as gorduras, facilitando sua absorção.</li>
+					<li class="lista-ordenada--romano item_romano">Auxilia na manutenção da temperatura do corpo.</li>
+				</ol>
+				<p class="texto--normal questao_sem_numero">Assinale a alternativa que indica as afirmativas corretas.</p>
+				<ol>
+					<li class="lista-ordenada--alfabeto item_com_letra_colunado">I e II.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra_colunado">I, II e III.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra_colunado">I, II e IV.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra_colunado">II, III e IV.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra_colunado">I, II, III e IV.</li>
+				</ol></li>
+				<li class="lista-ordenada--atividade questao questao_proposta">A massa corporal dos seres vivos é constituída de aproximadamente 75% de água. A solução que preenche todas as células vivas consiste em uma mistura aquosa. Qual a propriedade da água e a função biológica a ela associada, respectivamente, que se relacionam a esse contexto?<ol><li class="lista-ordenada--alfabeto item_com_letra">Calor específico de vaporização; regular a temperatura corporal.</li><li class="lista-ordenada--alfabeto item_com_letra">Polaridade; dissolver vários tipos de substância.</li><li class="lista-ordenada--alfabeto item_com_letra">Tensão superficial; sustentar pequenos animais na superfície da água. </li><li class="lista-ordenada--alfabeto item_com_letra">Pontos de solidificação e de vaporização; manter a vida em ampla faixa de temperatura.</li><li class="lista-ordenada--alfabeto item_com_letra">Densidade no estado sólido; manter a vida aquática em lagos congelados.</li></ol></li>
+				<li class="lista-ordenada--atividade questao questao_proposta">(PUC-RS-Adaptada) Na síntese proteica, observam-se os seguintes eventos:<ol><li class="lista-ordenada--romano item_romano">um segmento de DNA é transcrito em RNA mensageiro;</li><li class="lista-ordenada--romano item_romano">o RNA mensageiro combina-se com um complexo de ribossomo, RNAs transportadores e aminoácidos;</li><li class="lista-ordenada--romano item_romano">a proteína é sintetizada.</li></ol>
+				<p class="texto--normal questao_sem_numero">Em um experimento hipotético de laboratório, realizou-se uma síntese proteica utilizando DNA de um gene humano, RNAs transportadores de uma ovelha e aminoácidos de um coelho. Ao final do experimento, obteve-se uma proteína</p>
+				<ol>
+					<li class="lista-ordenada--alfabeto item_com_letra">humana.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">de ovelha.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">de coelho.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">de ser humano e de ovelha.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">de ser humano e de coelho.</li>
+				</ol></li>
+				<li class="lista-ordenada--atividade questao questao_proposta">(UNICAMP-Adaptada) Os lipídios são<ol><li class="lista-ordenada--alfabeto item_com_letra">os compostos energéticos consumidos preferencialmente pelo organismo.</li><li class="lista-ordenada--alfabeto item_com_letra">mais abundantes na composição química dos vegetais que na dos animais.</li><li class="lista-ordenada--alfabeto item_com_letra">substâncias insolúveis na água, mas solúveis nos chamados solventes orgânicos (álcool, éter, benzeno).</li><li class="lista-ordenada--alfabeto item_com_letra">presentes como fosfolipídios no interior da célula, mas não na estrutura da membrana plasmática.</li><li class="lista-ordenada--alfabeto item_com_letra">compostos orgânicos formados pela ligação entre aminoácidos, por meio de ligações peptídicas.</li></ol></li>
+				<li class="lista-ordenada--atividade questao questao_proposta">(UNIOESTE-Adaptada) Relativo aos componentes químicos das células, assinale <strong class="negrito_principal">V</strong> para verdadeiro e <strong class="negrito_principal">F</strong> para falso.<p class="texto--alternativa-parenteses alternativa_parenteses">O teor de água nos tecidos de animais é maior quanto maior for seu metabolismo e menor quanto maior for a idade.</p><p class="texto--alternativa-parenteses alternativa_parenteses">Os lipídios podem ser formados pela associação entre ácidos graxos e álcool e constituem um material de isolamento térmico nas aves e nos mamíferos.</p><p class="texto--alternativa-parenteses alternativa_parenteses">O amido é o polissacarídio que representa a principal forma de armazenamento intracelular de glicídios nas células animais.</p><p class="texto--alternativa-parenteses alternativa_parenteses">Os carboidratos são os compostos orgânicos mais abundantes da matéria viva, constituídos de unidades denominadas aminoácidos e são responsáveis pela estruturação dos tecidos.</p></li>
+			</ol>
+		</div>
+		<div id="_idContainer070" class="pagina">
+			<p class="numeracao_paginas">19</p>
+		</div>
+		<div id="_idContainer071" class="conteudo_pg19">
+			<ol start="6">
+				<li class="lista-ordenada--atividade questao questao_proposta">(UECE-Adaptada) Analise as seguintes afirmações. <ol><li class="lista-ordenada--romano item_romano">Vitaminas são as principais fontes de energia para os seres vivos e são encontradas nos alimentos de origem vegetal.</li><li class="lista-ordenada--romano item_romano">Além de sua função energética, os carboidratos também atuam como elementos estruturais e de proteção nos seres vivos.</li><li class="lista-ordenada--romano item_romano">Alguns hormônios dependem da existência de lipídios para um funcionamento ideal.</li><li class="lista-ordenada--romano item_romano">Seres vivos são constituídos exclusivamente por substâncias orgânicas, como proteínas, lipídios, carboidratos, vitaminas e ácidos nucleicos.</li></ol>
+				<p class="texto--normal questao_sem_numero">Está correto o que se afirma apenas em</p>
+				<ol>
+					<li class="lista-ordenada--alfabeto item_com_letra">I e II.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">II e III.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">III e IV.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">I e IV.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">I e III.</li>
+				</ol></li>
+				<li class="lista-ordenada--atividade questao questao_proposta">As proteínas desempenham importantes funções nos seres vivos: suporte, proteção, catálise, transporte, defesa, entre outras. Assinale a alternativa que apresenta informações corretas sobre as proteínas.<ol><li class="lista-ordenada--alfabeto item_com_letra">São formadas a partir da ligação entre vários tipos de nucleotídios.</li><li class="lista-ordenada--alfabeto item_com_letra">Resultam de ligações entre aminoácidos, denominadas ligações peptídicas.</li><li class="lista-ordenada--alfabeto item_com_letra">Suas estruturas primárias são formadas a partir de ligações de hidrogênio.</li><li class="lista-ordenada--alfabeto item_com_letra">O fenômeno da desnaturação interfere em suas estruturas primárias e secundárias.</li><li class="lista-ordenada--alfabeto item_com_letra">As ligações peptídicas são formadas por reação de hidrólise entre aminoácidos.</li></ol></li>
+				<li class="lista-ordenada--atividade questao questao_proposta">(PUCCAMP-Adaptada) Para responder a esta questão, considere o texto apresentado a seguir.
+				<p class="texto--normal texto_normal">Nossa dieta é bastante equilibrada em termos de proteínas, carboidratos e gorduras, mas deixa a desejar em micronutrientes e vitaminas. “O brasileiro consome 400 miligramas de cálcio por dia, quando a recomendação internacional é de 1 200 miligramas, […]”. É um problema cultural, mais do que socioeconômico, já que os mais abastados, das classes A e B, ingerem cerca da metade de cálcio que deveriam.</p>
+				<p class="texto--referencia texto_referencia"><em class="italico">Revista Pesquisa Fapesp</em>, jun. 2010, p. 56.</p>
+				<p class="texto--normal questao_sem_numero">Sobre essas macromoléculas orgânicas, é correto afirmar que</p>
+				<ol>
+					<li class="lista-ordenada--alfabeto item_com_letra">entre as funções dos carboidratos no interior da célula, está a função enzimática, que permite o controle do metabolismo celular.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">as gorduras ou lipídios são moléculas que atuam ativamente no transporte de substâncias entre os meios interno e externo da célula.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">lipídios e proteínas são moléculas que participam da síntese de ATP como fontes de energia.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">lipídios e carboidratos são as principais fontes de energia para os seres vivos.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">carboidratos são moléculas complexas formadas a partir da união de inúmeras moléculas de aminoácidos e apresentam papel estrutural.</li>
+				</ol></li>
+				<li class="lista-ordenada--atividade questao questao_proposta">(FGV-Adaptada) A substituição de apenas um nucleotídio no DNA pode representar uma grave consequência ao seu portador, em função de uma modificação de um componente molecular na proteína sintetizada a partir do trecho alterado.
+				<p class="texto--normal questao_sem_numero">É o caso da anemia falciforme, na qual a síntese da hemoglobina humana normal, Hb A, é parcial ou totalmente substituída pela hemoglobina falciforme, Hb S, em decorrência da presença de um nucleotídio com adenina no lugar de outro com timina.</p>
+				<p class="texto--normal questao_sem_numero">A substituição do nucleotídio em questão é responsável pela</p>
+				<ol>
+					<li class="lista-ordenada--alfabeto item_com_letra">leitura incompleta do RNAm transcrito, codificador da hemoglobina.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">alteração na sequência de aminoácidos da hemoglobina sintetizada.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">modificação na sequência de nucleotídios da hemoglobina das hemácias.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">tradução de uma hemoglobina mutante com um aminoácido a mais.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">transcrição de uma hemoglobina mutante com um aminoácido a menos.</li>
+				</ol></li>
+				<li class="lista-ordenada--atividade questao questao_proposta">(FUVEST) No interior do Maranhão, uma doença que vitimou muitas pessoas começava com dormência e inchaço nas pernas, evoluindo para paralisia, insuficiência respiratória e cardíaca. Esses sintomas são iguais aos do beribéri, moléstia conhecida há mais de 2 000 anos. Nas primeiras décadas do século XX, o beribéri foi relacionado à carência da vitamina B1, usualmente encontrada em cereais integrais, legumes, ovos e leite. O quadro carencial, comum em lugares pobres, onde a alimentação é inadequada, pode ser agravado pela ingestão de bebidas alcoólicas e pelo contato com agrotóxicos. Como no passado, também hoje as vítimas do beribéri, no interior do Maranhão, são subnutridas, sendo sua alimentação baseada quase que exclusivamente em arroz branco. Em uma das comunidades afetadas, foram feitas algumas propostas, visando combater a doença.<ol><li class="lista-ordenada--romano item_romano">Incentivar o cultivo de hortas domésticas e a criação de pequenos animais para consumo. </li><li class="lista-ordenada--romano item_romano">Isolar as pessoas afetadas e prevenir a doença com uma campanha de vacinação. </li><li class="lista-ordenada--romano item_romano">Orientar os trabalhadores da região sobre o uso de equipamentos de proteção individual, quando da manipulação de agrotóxicos. </li></ol>
+				<p class="texto--normal questao_sem_numero">Entre as três propostas, podem contribuir para o combate à doença apenas</p>
+				<ol>
+					<li class="lista-ordenada--alfabeto item_com_letra">I.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">II.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">I e II.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">I e III.</li>
+					<li class="lista-ordenada--alfabeto item_com_letra">II e III.</li>
+				</ol></li>
+			</ol>
+		</div>
+	</body>
+</html>
